@@ -1,0 +1,205 @@
+[
+  {
+    "caption": "Branca de Neve<br />Branca de Neve e os Sete Anões (1937)",
+    "images": {
+      "768": "images/gallery/snow-white-768.webp",
+      "576": "images/gallery/snow-white-576.webp"
+    }
+  },
+  {
+    "caption": "Cinderella<br />Cinderella (1950)",
+    "images": {
+      "768": "images/gallery/cinderella-768.webp",
+      "576": "images/gallery/cinderella-576.webp"
+    }
+  },
+  {
+    "caption": "Alice<br />Alice no País das Maravilhas (1951)",
+    "images": {
+      "768": "images/gallery/alice-768.webp",
+      "576": "images/gallery/alice-576.webp"
+    }
+  },
+  {
+    "caption": "Sininho<br />Peter Pan (1953)",
+    "images": {
+      "768": "images/gallery/tinker-bell-768.webp",
+      "576": "images/gallery/tinker-bell-576.webp"
+    }
+  },
+  {
+    "caption": "Wendy Darling<br />Peter Pan (1953)",
+    "images": {
+      "768": "images/gallery/wendy-darling-768.webp",
+      "576": "images/gallery/wendy-darling-576.webp"
+    }
+  },
+  {
+    "caption": "Lady<br />A Dama e o Vagabundo (1955)",
+    "images": {
+      "768": "images/gallery/lady-768.webp",
+      "576": "images/gallery/lady-576.webp"
+    }
+  },
+  {
+    "caption": "Aurora<br />A Bela Adormecida (1959)",
+    "images": {
+      "768": "images/gallery/aurora-768.webp",
+      "576": "images/gallery/aurora-576.webp"
+    }
+  },
+  {
+    "caption": "Princesa Leia<br />Star Wars: Uma Nova Esperança (1977)",
+    "images": {
+      "768": "images/gallery/leia-768.webp",
+      "576": "images/gallery/leia-576.webp"
+    }
+  },
+  {
+    "caption": "Winnie the Pooh<br />Ursinho Pooh (1977)",
+    "images": {
+      "768": "images/gallery/winnie-768.webp",
+      "576": "images/gallery/winnie-576.webp"
+    }
+  },
+  {
+    "caption": "Ariel<br />A Pequena Sereia (1989)",
+    "images": {
+      "768": "images/gallery/ariel-768.webp",
+      "576": "images/gallery/ariel-576.webp"
+    }
+  },
+  {
+    "caption": "Bela<br />A Bela e a Fera (1991)",
+    "images": {
+      "768": "images/gallery/belle-768.webp",
+      "576": "images/gallery/belle-576.webp"
+    }
+  },
+  {
+    "caption": "Jasmine<br />Aladdin (1992)",
+    "images": {
+      "768": "images/gallery/jasmine-768.webp",
+      "576": "images/gallery/jasmine-576.webp"
+    }
+  },
+  {
+    "caption": "Sally<br />O Estranho Mundo de Jack (1993)",
+    "images": {
+      "768": "images/gallery/sally-768.webp",
+      "576": "images/gallery/sally-576.webp"
+    }
+  },
+  {
+    "caption": "Nala<br />O Rei Leão (1994)",
+    "images": {
+      "768": "images/gallery/nala-768.webp",
+      "576": "images/gallery/nala-576.webp"
+    }
+  },
+  {
+    "caption": "Pocahontas<br />Pocahontas (1995)",
+    "images": {
+      "768": "images/gallery/pocahontas-768.webp",
+      "576": "images/gallery/pocahontas-576.webp"
+    }
+  },
+  {
+    "caption": "Esmeralda<br />O Corcunda de Notre Dame (1996)",
+    "images": {
+      "768": "images/gallery/esmeralda-768.webp",
+      "576": "images/gallery/esmeralda-576.webp"
+    }
+  },
+  {
+    "caption": "Anastasia<br />Anastasia (1997)",
+    "images": {
+      "768": "images/gallery/anastasia-768.webp",
+      "576": "images/gallery/anastasia-576.webp"
+    }
+  },
+  {
+    "caption": "Megara<br />Hércules (1997)",
+    "images": {
+      "768": "images/gallery/megara-768.webp",
+      "576": "images/gallery/megara-576.webp"
+    }
+  },
+  {
+    "caption": "Mulan<br />Mulan (1998)",
+    "images": {
+      "768": "images/gallery/mulan-768.webp",
+      "576": "images/gallery/mulan-576.webp"
+    }
+  },
+  {
+    "caption": "Jane<br />Tarzan (1999)",
+    "images": {
+      "768": "images/gallery/jane-768.webp",
+      "576": "images/gallery/jane-576.webp"
+    }
+  },
+  {
+    "caption": "Jessie<br />Toy Story 2 (1999)",
+    "images": {
+      "768": "images/gallery/jessie-768.webp",
+      "576": "images/gallery/jessie-576.webp"
+    }
+  },
+  {
+    "caption": "Kida Nedakh<br />Atlantis: O Reino Perdido (2001)",
+    "images": {
+      "768": "images/gallery/kida-768.webp",
+      "576": "images/gallery/kida-576.webp"
+    }
+  },
+  {
+    "caption": "Tiana<br />A Princesa e o Sapo (2009)",
+    "images": {
+      "768": "images/gallery/tiana-768.webp",
+      "576": "images/gallery/tiana-576.webp"
+    }
+  },
+  {
+    "caption": "Rapunzel<br />Enrolados (2010)",
+    "images": {
+      "768": "images/gallery/rapunzel-768.webp",
+      "576": "images/gallery/rapunzel-576.webp"
+    }
+  },
+  {
+    "caption": "Vanellope von Schweetz<br />Detona Ralph (2012)",
+    "images": {
+      "768": "images/gallery/vanellope-von-schweetz-768.webp",
+      "576": "images/gallery/vanellope-von-schweetz-576.webp"
+    }
+  },
+  {
+    "caption": "Merida<br />Valente (2012)",
+    "images": {
+      "768": "images/gallery/merida-768.webp",
+      "576": "images/gallery/merida-576.webp"
+    }
+  },
+  {
+    "caption": "Anna<br />Frozen (2013)",
+    "images": {
+      "768": "images/gallery/anna-768.webp",
+      "576": "images/gallery/anna-576.webp"
+    }
+  },
+  {
+    "caption": "Elsa<br />Frozen (2013)",
+    "images": {
+      "768": "images/gallery/elsa-768.webp",
+      "576": "images/gallery/elsa-576.webp"
+    }
+  },
+  {
+    "caption": "Moana<br />Moana (2016)",
+    "images": {
+      "768": "images/gallery/moana-768.webp",
+      "576": "images/gallery/moana-576.webp"
+    }
+  }
+]

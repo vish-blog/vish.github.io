@@ -1,0 +1,532 @@
+[
+  {
+    "image": "images/characters/abraham-lincoln.webp",
+    "caption": "Abraham Lincoln"
+  },
+
+  {
+    "image": "images/characters/alien-predator-alien.webp",
+    "caption": "Alien"
+  },
+
+  {
+    "image": "images/characters/alien-predator-predator.webp",
+    "caption": "Predador"
+  },
+
+  {
+    "image": "images/characters/captain-planet.webp",
+    "caption": "Capitão Planeta"
+  },
+
+  {
+    "image": "images/characters/care-bear.webp",
+    "caption": "Ursinhos Carinhosos (Harmonia)"
+  },
+
+  {
+    "image": "images/characters/charlie-brown-snoopy.webp",
+    "caption": "Charlie Brown & Snoopy"
+  },
+
+  {
+    "image": "images/characters/dcu-aquaman.webp",
+    "caption": "Aquaman"
+  },
+
+  {
+    "image": "images/characters/dcu-batman-dark-knight.webp",
+    "caption": "Batman (Dark Knight)"
+  },
+
+  {
+    "image": "images/characters/dcu-batman-joker.webp",
+    "caption": "Batman & Coringa (Adam West)"
+  },
+
+  {
+    "image": "images/characters/dcu-catwoman.webp",
+    "caption": "Mulher Gato"
+  },
+
+  {
+    "image": "images/characters/dcu-flash.webp",
+    "caption": "Flash"
+  },
+
+  {
+    "image": "images/characters/dcu-green-lantern-hal-jordan.webp",
+    "caption": "Lanterna Verde (Hal Jordan)"
+  },
+
+  {
+    "image": "images/characters/dcu-robin.webp",
+    "caption": "Robin (Dick)"
+  },
+
+  {
+    "image": "images/characters/dcu-superman.webp",
+    "caption": "Superman"
+  },
+
+  {
+    "image": "images/characters/dcu-wonder-woman.webp",
+    "caption": "Mulher Maravilha"
+  },
+
+  {
+    "image": "images/characters/disney-donald-duck.webp",
+    "caption": "Pato Donald"
+  },
+
+  {
+    "image": "images/characters/disney-elsa.webp",
+    "caption": "Elsa (Frozen)"
+  },
+
+  {
+    "image": "images/characters/disney-little-mermaid.webp",
+    "caption": "Pequena Sereia (Ariel)"
+  },
+
+  {
+    "image": "images/characters/disney-maleficent.webp",
+    "caption": "Malévola"
+  },
+
+  {
+    "image": "images/characters/disney-mickey-mouse.webp",
+    "caption": "Mickey Mouse"
+  },
+
+  {
+    "image": "images/characters/disney-snow-white.webp",
+    "caption": "Branca de Neve"
+  },
+
+  {
+    "image": "images/characters/donkey-kong.webp",
+    "caption": "Donkey Kong"
+  },
+
+  {
+    "image": "images/characters/dr-who.webp",
+    "caption": "Dr. Who"
+  },
+
+  {
+    "image": "images/characters/gizmo-gremlin.webp",
+    "caption": "Gizmo (Gremlins)"
+  },
+
+  {
+    "image": "images/characters/godzilla.webp",
+    "caption": "Godzilla"
+  },
+
+  {
+    "image": "images/characters/goku-ssj.webp",
+    "caption": "Goku Super Sayajin"
+  },
+
+  {
+    "image": "images/characters/harry-potter.webp",
+    "caption": "Harry Potter"
+  },
+
+  {
+    "image": "images/characters/hellboy.webp",
+    "caption": "Hellboy"
+  },
+
+  {
+    "image": "images/characters/hello-kitty.webp",
+    "caption": "Hello Kitty"
+  },
+
+  {
+    "image": "images/characters/jack-the-night-before-christmas.webp",
+    "caption": "Jack Skellington (O Estranho Mundo de Jack)"
+  },
+
+  {
+    "image": "images/characters/jake-finn.webp",
+    "caption": "Jake & Finn (Hora de Aventura)"
+  },
+
+  {
+    "image": "images/characters/jason.webp",
+    "caption": "Jason Voorhees (Sexta-feira 13)"
+  },
+
+  {
+    "image": "images/characters/link.webp",
+    "caption": "Link (The Legend of Zelda, Ocarina of Time)"
+  },
+
+  {
+    "image": "images/characters/masters-of-the-universe-he-man.webp",
+    "caption": "He-man (Mestres do Universo)"
+  },
+
+  {
+    "image": "images/characters/masters-of-the-universe-skeletor.webp",
+    "caption": "Esqueleto (Mestres do Universo)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-antman.webp",
+    "caption": "Homem-Formiga (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-hulk.webp",
+    "caption": "Hulk (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-iron-man.webp",
+    "caption": "Homem de Ferro (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-loki.webp",
+    "caption": "Loki (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-rocket-groot.webp",
+    "caption": "Rocket & Groot (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-thanos.webp",
+    "caption": "Thanos (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-thanos-2.webp",
+    "caption": "Thanos (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-avengers-thor.webp",
+    "caption": "Thor (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-ff-dr-doom.webp",
+    "caption": "Dr. Destino (MCU - Quarteto Fantástico)"
+  },
+
+  {
+    "image": "images/characters/mcu-ff-silver-surfer.webp",
+    "caption": "Surfista Prateado (MCU - Quarteto Fantástico)"
+  },
+
+  {
+    "image": "images/characters/mcu-ghost-rider.webp",
+    "caption": "Motoqueiro Fantasma (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-punisher.webp",
+    "caption": "Justiceiro (MCU)"
+  },
+
+  {
+    "image": "images/characters/mcu-spiderverse-doc-ock.webp",
+    "caption": "Doutor Octopus (MCU - Spiderverse)"
+  },
+
+  {
+    "image": "images/characters/mcu-spiderverse-green-goblin.webp",
+    "caption": "Duende Verde (MCU - Spiderverse)"
+  },
+
+  {
+    "image": "images/characters/mcu-spiderverse-spiderman.webp",
+    "caption": "Home-Aranha (MCU - Spiderverse)"
+  },
+
+  {
+    "image": "images/characters/mcu-spiderverse-venom.webp",
+    "caption": "Venom (MCU - Spiderverse)"
+  },
+
+  {
+    "image": "images/characters/mcu-xmen-beast.webp",
+    "caption": "Fera (MCU - X-Men)"
+  },
+
+  {
+    "image": "images/characters/mcu-xmen-colossus.webp",
+    "caption": "Colossus (MCU - X-Men)"
+  },
+
+  {
+    "image": "images/characters/mcu-xmen-cyclops.webp",
+    "caption": "Ciclope (MCU - X-Men)"
+  },
+
+  {
+    "image": "images/characters/mcu-xmen-magneto.webp",
+    "caption": "Magneto (MCU - X-Men)"
+  },
+
+  {
+    "image": "images/characters/mcu-xmen-storm.webp",
+    "caption": "Tempestade (MCU - X-Men)"
+  },
+
+  {
+    "image": "images/characters/mcu-xmen-wolverine.webp",
+    "caption": "Wolverine (MCU - X-Men)"
+  },
+
+  {
+    "image": "images/characters/mcu-xmen-deadpool.webp",
+    "caption": "Deadpool (MCU)"
+  },
+
+  {
+    "image": "images/characters/mega-man.webp",
+    "caption": "Mega Man"
+  },
+
+  {
+    "image": "images/characters/metroid.webp",
+    "caption": "Super Metroid"
+  },
+
+  {
+    "image": "images/characters/michael-jackson.webp",
+    "caption": "Michael Jackson"
+  },
+
+  {
+    "image": "images/characters/mlp-rainbow-dash-mlp.webp",
+    "caption": "Rainbow Dash (My Little Pony)"
+  },
+
+  {
+    "image": "images/characters/mlp-twlight-sparkle-mlp.webp",
+    "caption": "twilight Sparkle (My Little Pony)"
+  },
+
+  {
+    "image": "images/characters/mortal-kombat-subzero.webp",
+    "caption": "Subzero (Mortal Kombat)"
+  },
+
+  {
+    "image": "images/characters/muppets-cookie-monster.webp",
+    "caption": "Cookie Monster (Muppets)"
+  },
+
+  {
+    "image": "images/characters/muppets-kermit.webp",
+    "caption": "Kermit/Caco (Muppets)"
+  },
+
+  {
+    "image": "images/characters/oompa-loompa.webp",
+    "caption": "Oompa Loompa (Clássico)"
+  },
+
+  {
+    "image": "images/characters/optimus-prime.webp",
+    "caption": "Optimus Prime (Transformers)"
+  },
+
+  {
+    "image": "images/characters/papa-smurf.webp",
+    "caption": "Papa Smurf"
+  },
+
+  {
+    "image": "images/characters/pokemon-pikachu.webp",
+    "caption": "Pikachu"
+  },
+
+  {
+    "image": "images/characters/popeye.webp",
+    "caption": "Popeye"
+  },
+
+  {
+    "image": "images/characters/power-rangers-green-ranger.webp",
+    "caption": "Ranger Verde (Power Rangers)"
+  },
+
+  {
+    "image": "images/characters/powerpuff-girls.webp",
+    "caption": "Lindinha, Florzinha e Docinho (As Meninas Superpoderosas)"
+  },
+
+  {
+    "image": "images/characters/robocop.webp",
+    "caption": "Robocop (Clássico)"
+  },
+
+  {
+    "image": "images/characters/ronald-mcdonald.webp",
+    "caption": "Ronald McDonald"
+  },
+
+  {
+    "image": "images/characters/sailor-moon.webp",
+    "caption": "Serena (Sailor Moon)"
+  },
+
+  {
+    "image": "images/characters/sonic.webp",
+    "caption": "Sonic"
+  },
+
+  {
+    "image": "images/characters/speed-racer.webp",
+    "caption": "Speed Racer (Clássico)"
+  },
+
+  {
+    "image": "images/characters/star-fox.webp",
+    "caption": "Star Fox"
+  },
+
+  {
+    "image": "images/characters/star-trek-spock.webp",
+    "caption": "Spock (Star Trek)"
+  },
+
+  {
+    "image": "images/characters/star-wars-boba-fett.webp",
+    "caption": "Boba Fett (Star Wars)"
+  },
+
+  {
+    "image": "images/characters/star-wars-c3po-r2d2.webp",
+    "caption": "R2D2 & C3PO (Star Wars)"
+  },
+
+  {
+    "image": "images/characters/star-wars-chewie.webp",
+    "caption": "Chewbacca/Chewie (Star Wars)"
+  },
+
+  {
+    "image": "images/characters/star-wars-darth-maul.webp",
+    "caption": "Darth Maul (Star Wars)"
+  },
+
+  {
+    "image": "images/characters/star-wars-darth-vader.webp",
+    "caption": "Darth Vader (Star Wars)"
+  },
+
+  {
+    "image": "images/characters/star-wars-luke-skywalker.webp",
+    "caption": "Luke Skywalker"
+  },
+
+  {
+    "image": "images/characters/star-wars-stormtrooper.webp",
+    "caption": "Stormtrooper (Star Wars)"
+  },
+
+  {
+    "image": "images/characters/star-wars-yoda.webp",
+    "caption": "Mestre Yoda (Star Wars)"
+  },
+
+  {
+    "image": "images/characters/street-fighter-chun-li.webp",
+    "caption": "Chun-Li (Street Fighter)"
+  },
+
+  {
+    "image": "images/characters/street-fighter-dhalsim.webp",
+    "caption": "Dhalsim (Street Fighter)"
+  },
+
+  {
+    "image": "images/characters/street-fighter-ken.webp",
+    "caption": "Ken (Street Fighter)"
+  },
+
+  {
+    "image": "images/characters/street-fighter-ryu.webp",
+    "caption": "Ryu (Street Fighter)"
+  },
+
+  {
+    "image": "images/characters/super-mario-luigi-yoshi.webp",
+    "caption": "Luigi & Yoshi (Super Mario)"
+  },
+
+  {
+    "image": "images/characters/super-mario-mario.webp",
+    "caption": "Mario (Super Mario)"
+  },
+
+  {
+    "image": "images/characters/super-mario-princess-peach.webp",
+    "caption": "Princesa Peach (Super Mario)"
+  },
+
+  {
+    "image": "images/characters/super-mario-toad.webp",
+    "caption": "Toad (Super Mario)"
+  },
+
+  {
+    "image": "images/characters/terminator.webp",
+    "caption": "Exterminador do Futuro"
+  },
+
+  {
+    "image": "images/characters/thundercats-lion-o.webp",
+    "caption": "Lion-o (Thundercats)"
+  },
+
+  {
+    "image": "images/characters/tmnt-bebop.webp",
+    "caption": "Bebop (Tartarugas Ninja)"
+  },
+
+  {
+    "image": "images/characters/tmnt-donatello.webp",
+    "caption": "Donatello (Tartarugas Ninja)"
+  },
+
+  {
+    "image": "images/characters/tmnt-leonardo.webp",
+    "caption": "Leonardo (Tartarugas Ninja)"
+  },
+
+  {
+    "image": "images/characters/tmnt-michelangelo.webp",
+    "caption": "Michelangelo (Tartarugas Ninja)"
+  },
+
+  {
+    "image": "images/characters/tmnt-raphael.webp",
+    "caption": "Raphael (Tartarugas Ninja)"
+  },
+
+  {
+    "image": "images/characters/tmnt-rocksteady.webp",
+    "caption": "Rocksteady (Tartarugas Ninja)"
+  },
+
+  {
+    "image": "images/characters/tmnt-shredder.webp",
+    "caption": "Destruidor (Tartarugas Ninja)"
+  },
+
+  {
+    "image": "images/characters/bugs-bunny-thats-all-folks.webp",
+    "caption": "Pernalonga"
+  }
+
+]

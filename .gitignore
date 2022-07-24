@@ -1,0 +1,10 @@
+/compiled
+/src
+/server.bat
+# Ignoring leftovers of directory structure hack
+/api/pagina
+/api/pagina/*
+/dashboard/pagina
+/dashboard/pagina/*
+# PageKite Script
+pagekite.py

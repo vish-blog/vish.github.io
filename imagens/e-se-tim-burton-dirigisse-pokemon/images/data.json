@@ -1,0 +1,286 @@
+[
+  {
+    "image": "images/gallery/001-bulbasaur.webp",
+    "caption": "Bulbasaur"
+  },
+  {
+    "image": "images/gallery/002-ivysaur.webp",
+    "caption": "Ivysaur"
+  },
+  {
+    "image": "images/gallery/003-venusaur.webp",
+    "caption": "Venusaur"
+  },
+  {
+    "image": "images/gallery/004-charmander.webp",
+    "caption": "Charmander"
+  },
+  {
+    "image": "images/gallery/005-charmeleon.webp",
+    "caption": "Charmeleon"
+  },
+  {
+    "image": "images/gallery/006-charizard.webp",
+    "caption": "Charizard"
+  },
+  {
+    "image": "images/gallery/007-squirtle.webp",
+    "caption": "Squirtle"
+  },
+  {
+    "image": "images/gallery/008-wartortle.webp",
+    "caption": "Wartortle"
+  },
+  {
+    "image": "images/gallery/009-blastoise.webp",
+    "caption": "Blastoise"
+  },
+  {
+    "image": "images/gallery/010-caterpie.webp",
+    "caption": "Caterpie"
+  },
+  {
+    "image": "images/gallery/011-metapod.webp",
+    "caption": "Metapod"
+  },
+  {
+    "image": "images/gallery/012-butterfree.webp",
+    "caption": "Butterfree"
+  },
+  {
+    "image": "images/gallery/013-weedle.webp",
+    "caption": "Weedle"
+  },
+  {
+    "image": "images/gallery/014-kakuna.webp",
+    "caption": "Kakuna"
+  },
+  {
+    "image": "images/gallery/015-beedrill.webp",
+    "caption": "Beedrill"
+  },
+  {
+    "image": "images/gallery/016-pidgey.webp",
+    "caption": "Pidgey"
+  },
+  {
+    "image": "images/gallery/017-pidgeotto.webp",
+    "caption": "Pidgeotto"
+  },
+  {
+    "image": "images/gallery/018-pidgeot.webp",
+    "caption": "Pidgeot"
+  },
+  {
+    "image": "images/gallery/019-rattata.webp",
+    "caption": "Rattata"
+  },
+  {
+    "image": "images/gallery/020-raticate.webp",
+    "caption": "Raticate"
+  },
+  {
+    "image": "images/gallery/021-spearow.webp",
+    "caption": "Spearow"
+  },
+  {
+    "image": "images/gallery/022-fearow.webp",
+    "caption": "Fearow"
+  },
+  {
+    "image": "images/gallery/023-ekans.webp",
+    "caption": "Ekans"
+  },
+  {
+    "image": "images/gallery/024-arbok.webp",
+    "caption": "Arbok"
+  },
+  {
+    "image": "images/gallery/025-pikachu.webp",
+    "caption": "Pikachu"
+  },
+  {
+    "image": "images/gallery/026-raichu.webp",
+    "caption": "Raichu"
+  },
+  {
+    "image": "images/gallery/027-sandshrew.webp",
+    "caption": "Sandshrew"
+  },
+  {
+    "image": "images/gallery/028-sandslash.webp",
+    "caption": "Sandslash"
+  },
+  {
+    "image": "images/gallery/029-nidoran.webp",
+    "caption": "Nidoran"
+  },
+  {
+    "image": "images/gallery/030-nidorina.webp",
+    "caption": "Nidorina"
+  },
+  {
+    "image": "images/gallery/031-nidoqueen.webp",
+    "caption": "Nidoqueen"
+  },
+  {
+    "image": "images/gallery/032-nidoran.webp",
+    "caption": "Nidoran"
+  },
+  {
+    "image": "images/gallery/033-nidorino.webp",
+    "caption": "Nidorino"
+  },
+  {
+    "image": "images/gallery/034-nidoking.webp",
+    "caption": "Nidoking"
+  },
+  {
+    "image": "images/gallery/035-clefairy.webp",
+    "caption": "Clefairy"
+  },
+  {
+    "image": "images/gallery/036-clefable.webp",
+    "caption": "Clefable"
+  },
+  {
+    "image": "images/gallery/037-vulpix.webp",
+    "caption": "Vulpix"
+  },
+  {
+    "image": "images/gallery/038-ninetales.webp",
+    "caption": "Ninetales"
+  },
+  {
+    "image": "images/gallery/039-jigglypuff.webp",
+    "caption": "Jigglypuff"
+  },
+  {
+    "image": "images/gallery/040-wigglytuff.webp",
+    "caption": "Wigglytuff"
+  },
+  {
+    "image": "images/gallery/041-zubat.webp",
+    "caption": "Zubat"
+  },
+  {
+    "image": "images/gallery/042-golbat.webp",
+    "caption": "Golbat"
+  },
+  {
+    "image": "images/gallery/043-oddish.webp",
+    "caption": "Oddish"
+  },
+  {
+    "image": "images/gallery/044-gloom.webp",
+    "caption": "Gloom"
+  },
+  {
+    "image": "images/gallery/045-vileplume.webp",
+    "caption": "Vileplume"
+  },
+  {
+    "image": "images/gallery/046-paras.webp",
+    "caption": "Paras"
+  },
+  {
+    "image": "images/gallery/047-parasect.webp",
+    "caption": "Parasect"
+  },
+  {
+    "image": "images/gallery/048-venonat.webp",
+    "caption": "Venonat"
+  },
+  {
+    "image": "images/gallery/049-venomoth.webp",
+    "caption": "Venomoth"
+  },
+  {
+    "image": "images/gallery/050-diglett.webp",
+    "caption": "Diglett"
+  },
+  {
+    "image": "images/gallery/051-dugtrio.webp",
+    "caption": "Dugtrio"
+  },
+  {
+    "image": "images/gallery/052-meowth.webp",
+    "caption": "Meowth"
+  },
+  {
+    "image": "images/gallery/053-persian.webp",
+    "caption": "Persian"
+  },
+  {
+    "image": "images/gallery/054-psyduck.webp",
+    "caption": "Psyduck"
+  },
+  {
+    "image": "images/gallery/055-golduck.webp",
+    "caption": "Golduck"
+  },
+  {
+    "image": "images/gallery/056-mankey.webp",
+    "caption": "Mankey"
+  },
+  {
+    "image": "images/gallery/057-primeape.webp",
+    "caption": "Primeape"
+  },
+  {
+    "image": "images/gallery/058-growlithe.webp",
+    "caption": "Growlithe"
+  },
+  {
+    "image": "images/gallery/059-arcanine.webp",
+    "caption": "Arcanine"
+  },
+  {
+    "image": "images/gallery/060-poliwag.webp",
+    "caption": "Poliwag"
+  },
+  {
+    "image": "images/gallery/061-poliwhirl.webp",
+    "caption": "Poliwhirl"
+  },
+  {
+    "image": "images/gallery/062-poliwrath.webp",
+    "caption": "Poliwrath"
+  },
+  {
+    "image": "images/gallery/063-abra.webp",
+    "caption": "Abra"
+  },
+  {
+    "image": "images/gallery/064-kadabra.webp",
+    "caption": "Kadabra"
+  },
+  {
+    "image": "images/gallery/065-alakazam.webp",
+    "caption": "Alakazam"
+  },
+  {
+    "image": "images/gallery/066-machop.webp",
+    "caption": "Machop"
+  },
+  {
+    "image": "images/gallery/067-machoke.webp",
+    "caption": "Machoke"
+  },
+  {
+    "image": "images/gallery/068-machamp.webp",
+    "caption": "Machamp"
+  },
+  {
+    "image": "images/gallery/069-bellsprout.webp",
+    "caption": "Bellsprout"
+  },
+  {
+    "image": "images/gallery/070-weepinbell.webp",
+    "caption": "Weepinbell"
+  },
+  {
+    "image": "images/gallery/071-victreebel.webp",
+    "caption": "Victreebel"
+  }
+]

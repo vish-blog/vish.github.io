@@ -1,0 +1,72 @@
+[
+  {
+    "caption": "Link e os Cucos",
+    "images": {
+      "768": "images/gallery/link-cuccos-768.webp",
+      "576": "images/gallery/link-cuccos-576.webp"
+    }
+  },
+  {
+    "caption": "Charmander, Squirtle, Bulbasaur e Red<br />Pokémon (Kanto)",
+    "images": {
+      "768": "images/gallery/pokemon-kanto-768.webp",
+      "576": "images/gallery/pokemon-kanto-576.webp"
+    }
+  },
+  {
+    "caption": "Whisper, Komasan, Jibanyan e Nathan Adams<br />Yokai Watch",
+    "images": {
+      "768": "images/gallery/yokai-watch-768.webp",
+      "576": "images/gallery/yokai-watch-576.webp"
+    }
+  },
+  {
+    "caption": "Torchic, Mudkip, Treecko e Brendan<br />Pokémon (Hoenn)",
+    "images": {
+      "768": "images/gallery/pokemon-hoenn-768.webp",
+      "576": "images/gallery/pokemon-hoenn-576.webp"
+    }
+  },
+  {
+    "caption": "Feiticeira Negra, Mago Negro, Kuriboh e Yugi<br />Yu-Gi-Oh",
+    "images": {
+      "768": "images/gallery/yugioh-yugi-768.webp",
+      "576": "images/gallery/yugioh-yugi-576.webp"
+    }
+  },
+  {
+    "caption": "Fantastic Animals",
+    "images": {
+      "768": "images/gallery/fantastic-animals-768.webp",
+      "576": "images/gallery/fantastic-animals-576.webp"
+    }
+  },
+  {
+    "caption": "Time Wizard, Baby Dragon, Red-Eyes Black Dragon e Joey Wheeler<br />Yu-Gi-Oh",
+    "images": {
+      "768": "images/gallery/yugioh-joey-768.webp",
+      "576": "images/gallery/yugioh-joey-768.webp"
+    }
+  },
+  {
+    "caption": "Cyndaquil, Totodile, Chikorita e Ethan<br />Pokémon (Johto)",
+    "images": {
+      "768": "images/gallery/pokemon-johto-768.webp",
+      "576": "images/gallery/pokemon-johto-576.webp"
+    }
+  },
+  {
+    "caption": "Bonnie, Chicko, Freddy Fazbear e Mike Schmidt<br />Five Nights at Freddy's",
+    "images": {
+      "768": "images/gallery/five-nights-at-freddys-768.webp",
+      "576": "images/gallery/five-nights-at-freddys-576.webp"
+    }
+  },
+  {
+    "caption": "Patamon, Biyomon, Agumon e Tai<br />Digimon",
+    "images": {
+      "768": "images/gallery/digimon-768.webp",
+      "576": "images/gallery/digimon-576.webp"
+    }
+  }
+]

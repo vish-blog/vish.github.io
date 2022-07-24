@@ -1,0 +1,58 @@
+[
+  {
+    "image": "images/gallery/1.webp",
+    "caption": "Steven Spielberg<br />Jurassic Park (1993)"
+  },
+  {
+    "image": "images/gallery/2.webp",
+    "caption": "Tim Burton<br />Beetlejuice (1988)"
+  },
+  {
+    "image": "images/gallery/3.webp",
+    "caption": "Christopher Nolan<br />Batman Begins (2005)"
+  },
+  {
+    "image": "images/gallery/4.webp",
+    "caption": "Peter Jackon<br />O Senhor dos Anéis / O Hobbit (2001/2014)"
+  },
+  {
+    "image": "images/gallery/5.webp",
+    "caption": "George Lucas<br /> Star Wars (1977 - 2005)"
+  },
+  {
+    "image": "images/gallery/6.webp",
+    "caption": "Wes Anderson<br />O Grande Hotel Budapeste (2014)"
+  },
+  {
+    "image": "images/gallery/7.webp",
+    "caption": "Michael Bay<br />Transformers (2007 - 2017)"
+  },
+  {
+    "image": "images/gallery/8.webp",
+    "caption": "James Cameron<br />Titanic / Avatar (1998 / 2009)"
+  },
+  {
+    "image": "images/gallery/9.webp",
+    "caption": "Irmãos Coen<br />Queime Depois de Ler (2008)"
+  },
+  {
+    "image": "images/gallery/10.webp",
+    "caption": "David Lynch<br />Dune (1984)"
+  },
+  {
+    "image": "images/gallery/11.webp",
+    "caption": "Uwe Boll<br />Rampage - Sede de Vingança (2009)"
+  },
+  {
+    "image": "images/gallery/12.webp",
+    "caption": "Hayao Miyazaki<br />A Viagem de Chihiro / Castelo Animado (2003 / 2005)"
+  },
+  {
+    "image": "images/gallery/13.webp",
+    "caption": "Terrence Malick<br />A Árvore da Vida (2011)"
+  },
+  {
+    "image": "images/gallery/14.webp",
+    "caption": "Quentin tarantino<br />Kill Bill / Bastardos Inglórios (2003 / 2009)"
+  }
+]

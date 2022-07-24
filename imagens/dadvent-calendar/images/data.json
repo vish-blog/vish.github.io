@@ -1,0 +1,324 @@
+[
+  {
+    "caption": "American Gothic<br />Grant Wood (1930)",
+    "images": {
+      "768": "images/gallery/1a-768.webp",
+      "576": "images/gallery/1a-576.webp"
+    }
+  },
+  {
+    "caption": "American Gothic<br />Grant Wood (1930)",
+    "images": {
+      "768": "images/gallery/1b-768.webp",
+      "576": "images/gallery/1b-576.webp"
+    }
+  },
+  {
+    "caption": "Mona Lisa<br />Leonardo DaVinci (1530)",
+    "images": {
+      "768": "images/gallery/2a-768.webp",
+      "576": "images/gallery/2a-576.webp"
+    }
+  },
+  {
+    "caption": "Mona Lisa<br />Leonardo DaVinci (1530)",
+    "images": {
+      "768": "images/gallery/2b-768.webp",
+      "576": "images/gallery/2b-576.webp"
+    }
+  },
+  {
+    "caption": "Salvador Dalí<br />The Persistence of Memory (1931)",
+    "images": {
+      "768": "images/gallery/3a-768.webp",
+      "576": "images/gallery/3a-576.webp"
+    }
+  },
+  {
+    "caption": "Salvador Dalí<br />The Persistence of Memory (1931)",
+    "images": {
+      "768": "images/gallery/3b-768.webp",
+      "576": "images/gallery/3b-576.webp"
+    }
+  },
+  {
+    "caption": "Edvard Munch<br />The Scream (1893)",
+    "images": {
+      "768": "images/gallery/4a-768.webp",
+      "576": "images/gallery/4a-576.webp"
+    }
+  },
+  {
+    "caption": "Edvard Munch<br />The Scream (1893)",
+    "images": {
+      "768": "images/gallery/4b-768.webp",
+      "576": "images/gallery/4b-576.webp"
+    }
+  },
+  {
+    "caption": "Vincent Van Gogh<br />The Starry Night (1889)",
+    "images": {
+      "768": "images/gallery/5a-768.webp",
+      "576": "images/gallery/5a-576.webp"
+    }
+  },
+  {
+    "caption": "Vincent Van Gogh<br />The Starry Night (1889)",
+    "images": {
+      "768": "images/gallery/5b-768.webp",
+      "576": "images/gallery/5b-576.webp"
+    }
+  },
+  {
+    "caption": "Georges Seurat<br />A Sunday Afternoon on the Island of La Grande Jatte (1886)",
+    "images": {
+      "768": "images/gallery/6a-768.webp",
+      "576": "images/gallery/6a-576.webp"
+    }
+  },
+  {
+    "caption": "Georges Seurat<br />A Sunday Afternoon on the Island of La Grande Jatte (1886)",
+    "images": {
+      "768": "images/gallery/6b-768.webp",
+      "576": "images/gallery/6b-576.webp"
+    }
+  },
+  {
+    "caption": "Emanuel Gottlieb Leutze<br />Washington Crossing the Delaware (1851)",
+    "images": {
+      "768": "images/gallery/7a-768.webp",
+      "576": "images/gallery/7a-576.webp"
+    }
+  },
+  {
+    "caption": "Emanuel Gottlieb Leutze<br />Washington Crossing the Delaware (1851)",
+    "images": {
+      "768": "images/gallery/7b-768.webp",
+      "576": "images/gallery/7b-576.webp"
+    }
+  },
+  {
+    "caption": "Cassius Marcellus Coolidge<br />A Friend in Need (1903)",
+    "images": {
+      "768": "images/gallery/8a-768.webp",
+      "576": "images/gallery/8a-576.webp"
+    }
+  },
+  {
+    "caption": "Cassius Marcellus Coolidge<br />A Friend in Need (1903)",
+    "images": {
+      "768": "images/gallery/8b-768.webp",
+      "576": "images/gallery/8b-576.webp"
+    }
+  },
+  {
+    "caption": "Sandro Botticelli<br />The Birth Of Venus (1486)",
+    "images": {
+      "768": "images/gallery/9a-768.webp",
+      "576": "images/gallery/9a-576.webp"
+    }
+  },
+  {
+    "caption": "Sandro Botticelli<br />The Birth Of Venus (1486)",
+    "images": {
+      "768": "images/gallery/9b-768.webp",
+      "576": "images/gallery/9b-576.webp"
+    }
+  },
+  {
+    "caption": "Gustav Klimt<br />The Kiss (1907)",
+    "images": {
+      "768": "images/gallery/10a-768.webp",
+      "576": "images/gallery/10a-576.webp"
+    }
+  },
+  {
+    "caption": "Gustav Klimt<br />The Kiss (1907)",
+    "images": {
+      "768": "images/gallery/10b-768.webp",
+      "576": "images/gallery/10b-576.webp"
+    }
+  },
+  {
+    "caption": "Édouard Manet<br />A Bar at the Folies-Bergère (1882)",
+    "images": {
+      "768": "images/gallery/11a-768.webp",
+      "576": "images/gallery/11a-576.webp"
+    }
+  },
+  {
+    "caption": "Édouard Manet<br />A Bar at the Folies-Bergère (1882)",
+    "images": {
+      "768": "images/gallery/11b-768.webp",
+      "576": "images/gallery/11b-576.webp"
+    }
+  },
+  {
+    "caption": "Damien Hirst<br />The Physical Impossibility of Death (1991)",
+    "images": {
+      "768": "images/gallery/12a-768.webp",
+      "576": "images/gallery/12a-576.webp"
+    }
+  },
+  {
+    "caption": "Damien Hirst<br />The Physical Impossibility of Death (1991)",
+    "images": {
+      "768": "images/gallery/12b-768.webp",
+      "576": "images/gallery/12b-576.webp"
+    }
+  },
+  {
+    "caption": "Johannes Vermeer<br />Girl with a Pearl Earring (1665)",
+    "images": {
+      "768": "images/gallery/13a-768.webp",
+      "576": "images/gallery/13a-576.webp"
+    }
+  },
+  {
+    "caption": "Johannes Vermeer<br />Girl with a Pearl Earring (1665)",
+    "images": {
+      "768": "images/gallery/13b-768.webp",
+      "576": "images/gallery/13b-576.webp"
+    }
+  },
+  {
+    "caption": "Banksy<br />Girl with Balloon (2018)",
+    "images": {
+      "768": "images/gallery/14a-768.webp",
+      "576": "images/gallery/14a-576.webp"
+    }
+  },
+  {
+    "caption": "Banksy<br />Girl with Balloon (2018)",
+    "images": {
+      "768": "images/gallery/14b-768.webp",
+      "576": "images/gallery/14b-576.webp"
+    }
+  },
+  {
+    "caption": "Berthold Woltze<br />The Irritating Gentleman (1874)",
+    "images": {
+      "768": "images/gallery/15a-768.webp",
+      "576": "images/gallery/15a-576.webp"
+    }
+  },
+  {
+    "caption": "Berthold Woltze<br />The Irritating Gentleman (1874)",
+    "images": {
+      "768": "images/gallery/15b-768.webp",
+      "576": "images/gallery/15b-576.webp"
+    }
+  },
+  {
+    "caption": "John William Waterhouse<br />The Lady of Shalott (1888)",
+    "images": {
+      "768": "images/gallery/16a-768.webp",
+      "576": "images/gallery/16a-576.webp"
+    }
+  },
+  {
+    "caption": "John William Waterhouse<br />The Lady of Shalott (1888)",
+    "images": {
+      "768": "images/gallery/16b-768.webp",
+      "576": "images/gallery/16b-576.webp"
+    }
+  },
+  {
+    "caption": "James Mcneill Whistler<br />Whistler's MOther (1871)",
+    "images": {
+      "768": "images/gallery/17a-768.webp",
+      "576": "images/gallery/17a-576.webp"
+    }
+  },
+  {
+    "caption": "James Mcneill Whistler<br />Whistler's MOther (1871)",
+    "images": {
+      "768": "images/gallery/17b-768.webp",
+      "576": "images/gallery/17b-576.webp"
+    }
+  },
+  {
+    "caption": "Édouard Manet<br />Le Déjeuner sur l'herbe (1863)",
+    "images": {
+      "768": "images/gallery/18a-768.webp",
+      "576": "images/gallery/18a-576.webp"
+    }
+  },
+  {
+    "caption": "Édouard Manet<br />Le Déjeuner sur l'herbe (1863)",
+    "images": {
+      "768": "images/gallery/18b-768.webp",
+      "576": "images/gallery/18b-576.webp"
+    }
+  },
+  {
+    "caption": "Claude Monet<br />Water Lillies (1916)",
+    "images": {
+      "768": "images/gallery/19a-768.webp",
+      "576": "images/gallery/19a-576.webp"
+    }
+  },
+  {
+    "caption": "Claude Monet<br />Water Lillies (1916)",
+    "images": {
+      "768": "images/gallery/19b-768.webp",
+      "576": "images/gallery/19b-576.webp"
+    }
+  },
+  {
+    "caption": "Hans Holbein<br />The Ambassadors (1533)",
+    "images": {
+      "768": "images/gallery/20a-768.webp",
+      "576": "images/gallery/20a-576.webp"
+    }
+  },
+  {
+    "caption": "Hans Holbein<br />The Ambassadors (1533)",
+    "images": {
+      "768": "images/gallery/20b-768.webp",
+      "576": "images/gallery/20b-576.webp"
+    }
+  },
+  {
+    "caption": "Jacques-Louis David<br />The Death of Marat (1793)",
+    "images": {
+      "768": "images/gallery/21a-768.webp",
+      "576": "images/gallery/21a-576.webp"
+    }
+  },
+  {
+    "caption": "Jacques-Louis David<br />The Death of Marat (1793)",
+    "images": {
+      "768": "images/gallery/21b-768.webp",
+      "576": "images/gallery/21b-576.webp"
+    }
+  },
+  {
+    "caption": "René Magritte<br />The son of Man (1964)",
+    "images": {
+      "768": "images/gallery/22a-768.webp",
+      "576": "images/gallery/22a-576.webp"
+    }
+  },
+  {
+    "caption": "René Magritte<br />The son of Man (1964)",
+    "images": {
+      "768": "images/gallery/22b-768.webp",
+      "576": "images/gallery/22b-576.webp"
+    }
+  },
+  {
+    "caption": "Michelangelo di Lodovico Buonarroti Simoni<br />The Creation of Adam (Ceiling of Sistine Chapel) - 1508–1512",
+    "images": {
+      "768": "images/gallery/23a-768.webp",
+      "576": "images/gallery/23a-576.webp"
+    }
+  },
+  {
+    "caption": "Michelangelo di Lodovico Buonarroti Simoni<br />The Creation of Adam (Ceiling of Sistine Chapel) - 1508–1512",
+    "images": {
+      "768": "images/gallery/23b-768.webp",
+      "576": "images/gallery/23b-576.webp"
+    }
+  }
+]
