@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+
+    <style>
+      g { display: none; }
+      g:target { display: inline; }
+    </style>
+
+    <symbol id="arrow-left-symbol" viewBox="0 0 32 32">
+      <path d="M23.808 32c3.554-6.439 4.153-16.26-9.808-15.932v7.932l-12-12 12-12v7.762c16.718-0.436 18.58 14.757 9.808 24.238z"/>
+    </symbol>
+
+    <symbol id="arrow-right-symbol" viewBox="0 0 32 32">
+      <path d="M18 7.762v-7.762l12 12-12 12v-7.932c-13.961-0.328-13.362 9.493-9.808 15.932-8.772-9.482-6.909-24.674 9.808-24.238z"/>
+    </symbol>
+
+  </defs>
+
+  <g id="arrow-left">
+    <use xlink:href="#arrow-left-symbol"/>
+  </g>
+
+  <g id="arrow-right">
+    <use xlink:href="#arrow-right-symbol"/>
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+{
+  "settings": {
+    "name": "Made with Chinesium",
+    "captions": false,
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "images": {
+        "992": "images/gallery/1-992.webp",
+        "768": "images/gallery/1-768.webp",
+        "576": "images/gallery/1-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/2-992.webp",
+        "768": "images/gallery/2-768.webp",
+        "576": "images/gallery/2-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/3-992.webp",
+        "768": "images/gallery/3-768.webp",
+        "576": "images/gallery/3-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/4-992.webp",
+        "768": "images/gallery/4-768.webp",
+        "576": "images/gallery/4-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/5-992.webp",
+        "768": "images/gallery/5-768.webp",
+        "576": "images/gallery/5-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/6-992.webp",
+        "768": "images/gallery/6-768.webp",
+        "576": "images/gallery/6-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/7-992.webp",
+        "768": "images/gallery/7-768.webp",
+        "576": "images/gallery/7-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/8-992.webp",
+        "768": "images/gallery/8-768.webp",
+        "576": "images/gallery/8-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/9-992.webp",
+        "768": "images/gallery/9-768.webp",
+        "576": "images/gallery/9-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/10-992.webp",
+        "768": "images/gallery/10-768.webp",
+        "576": "images/gallery/10-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/11-992.webp",
+        "768": "images/gallery/11-768.webp",
+        "576": "images/gallery/11-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/12-992.webp",
+        "768": "images/gallery/12-768.webp",
+        "576": "images/gallery/12-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/13-992.webp",
+        "768": "images/gallery/13-768.webp",
+        "576": "images/gallery/13-576.webp"
+      }
+    },
+    {
+      "images": {
+        "992": "images/gallery/14-992.webp",
+        "768": "images/gallery/14-768.webp",
+        "576": "images/gallery/14-576.webp"
+      }
+    }
+  ]
+}

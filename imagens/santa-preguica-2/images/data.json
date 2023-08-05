@@ -1,0 +1,70 @@
+{
+  "settings": {
+    "name": "Santa Preguiça #2",
+    "captions": true
+  },
+
+  "gallery": [
+
+    {
+      "cover": true,
+      "images": {
+        "1x": "images/gallery/1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/4.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/5.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Eu pediria aquele verde que tá nos... cinco piores lugares dessa bagunça"
+      },
+      "images": {
+        "1x": "images/gallery/6.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/7.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/8.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Quem nunca fez isso que atire a primeira... almofada, que é o que eu geralmente uso pra acertar o interruptor"
+      },
+      "images": {
+        "1x": "images/gallery/9.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "\"Você não queria uma árvore? Então toma sua árvore!<br />E reclama pra ver se não fica se não fica sem\" — mãe"
+      },
+      "images": {
+        "1x": "images/gallery/10.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "settings": {
+    "name": "Fuuusão #1",
+    "captions": false,
+    "credits": "© [Suraj Sirohi](https://www.instagram.com/surajsirohi1008/)",
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "images": {
+        "1x": "images/gallery/homer-finn-1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/homer-finn-2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/homer-finn-3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/pernalonga-dudu-1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/pernalonga-dudu-2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/pernalonga-dudu-3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/garfield-mickey-1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/garfield-mickey-2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/macaco-loco-bob-esponja-1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/macaco-loco-bob-esponja-2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/macaco-loco-bob-esponja-3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/flanders-jake-1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/flanders-jake-2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/flanders-jake-3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/rick-pikachu-1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/rick-pikachu-2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/rick-pikachu-3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/burns-saitama-1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/burns-saitama-2.webp"
+      }
+    }
+  ]
+}

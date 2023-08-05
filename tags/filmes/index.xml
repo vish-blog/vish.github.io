@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Filmes on Vish!</title><link>https://www.vish.blog.br/tags/filmes/</link><description>Recent content in Filmes on Vish!</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><atom:link href="https://www.vish.blog.br/tags/filmes/index.xml" rel="self" type="application/rss+xml"/><item><title>Heróis &amp; Vilões</title><link>https://www.vish.blog.br/imagens/tirinhas/herois-e-viloes/</link><pubDate>Sat, 13 May 2023 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/imagens/tirinhas/herois-e-viloes/</guid><description>false</description></item><item><title>Ou Você Morre na Marvel...</title><link>https://www.vish.blog.br/imagens/ou-voce-morre-na-marvel/</link><pubDate>Sat, 13 May 2023 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/imagens/ou-voce-morre-na-marvel/</guid><description>false</description></item><item><title>Os Melhores</title><link>https://www.vish.blog.br/imagens/tirinhas/os-melhores/</link><pubDate>Thu, 19 Jan 2023 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/imagens/tirinhas/os-melhores/</guid><description>false</description></item><item><title>De Volta pro Futuro 4</title><link>https://www.vish.blog.br/videos/de-volta-pro-futuro-4/</link><pubDate>Thu, 13 Oct 2022 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/videos/de-volta-pro-futuro-4/</guid><description>false</description></item><item><title>Ou você morre herói...</title><link>https://www.vish.blog.br/imagens/ou-voce-morre-heroi/</link><pubDate>Tue, 13 Sep 2022 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/imagens/ou-voce-morre-heroi/</guid><description>false</description></item><item><title>Fazendo as Coisas com Raiva</title><link>https://www.vish.blog.br/imagens/gifs/fazendo-as-coisas-com-raiva/</link><pubDate>Mon, 29 Aug 2022 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/imagens/gifs/fazendo-as-coisas-com-raiva/</guid><description>false</description></item><item><title>Sessão da Tarde</title><link>https://www.vish.blog.br/imagens/sessao-da-tarde/</link><pubDate>Tue, 01 Mar 2022 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/imagens/sessao-da-tarde/</guid><description>&lt;div id="embed-581d480646b5f5ed585a417cfae333f372aa92c3"
+class="embed2 image d-flex mb-3 flex-column flex-lg-row">
+&lt;div class="wrapper">
+&lt;a href="https://www.vish.blog.br/imagens/sessao-da-tarde/images/thumbnail.webp"
+target="_blank"
+title="Sessão da Tarde"
+data-sizes='100vw' data-srcset='https://www.vish.blog.br/imagens/sessao-da-tarde/images/thumbnail.webp 1x'>
+&lt;img src="https://www.vish.blog.br/imagens/sessao-da-tarde/images/thumbnail.webp"
+class="rounded borders"
+alt="Sessão da Tarde"
+title="Sessão da Tarde"
+height="480" width="853"
+srcset="https://www.vish.blog.br/imagens/sessao-da-tarde/images/thumbnail.webp 1x"
+sizes="100vw"
+loading="lazy" fetchpriority="low" />
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;style>
+.gslide-media.gslide-image img { border-radius: .25rem; }
+.gprev.disabled, .gnext.disabled { display: none; }
+.gslide-media.gslide-image ~ .gslide-description {
+background: transparent !important;
+text-align: center;
+}
+.gslide-media.gslide-image ~ .gslide-description .gdesc-inner {
+margin-top: 1rem;
+padding: 0 !important;
+}
+.gslide-media.gslide-image ~ .gslide-description .gslide-desc a:hover {
+text-decoration: underline dotted rgba( var( --shiro ) );
+}
+.gslide-media.gslide-image ~ .gslide-description.description-bottom .gslide-title,
+.gslide-media.gslide-image ~ .gslide-description.description-bottom .gslide-desc {
+color: rgba( var( --shiro ) );
+font-family: "Quicksand", Arial, sans-serif;
+}
+.gslide-media.gslide-image ~ .gslide-description.description-bottom .gslide-title {
+font-weight: bold;
+margin-bottom: 0;
+}
+@media ( min-width: 409.98px ) and ( max-width: 575.98px ) {
+.ginner-container { width: 100% !important; }
+}
+@media ( min-width: 576px ) and ( max-width: 767.98px ) {
+.ginner-container { width: 100% !important; }
+}
+@media ( min-width: 768px ) and ( max-width: 991.98px ) {
+.ginner-container { width: 70% !important; }
+}
+@media ( min-width: 992px ) and ( max-width: 1199.98px ) {
+.ginner-container { width: 65% !important; }
+}
+@media ( min-width: 1200px ) and ( max-width: 1439.98px ) {
+.ginner-container { width: 55% !important; }
+}
+&lt;/style></description></item></channel></rss>

@@ -1,0 +1,227 @@
+{
+  "settings": {
+    "name": "Armaduras de Ouro em 3D",
+    "captions": true,
+    "credits": "© [Fabio Velez Munôz](https://fabiofenix88.artstation.com)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "description": "Armadura Sagrada de Áries"
+      },
+      "images": {
+        "768": "images/gallery/1a-aries-768.webp",
+        "576": "images/gallery/1a-aries-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Áries"
+      },
+      "images": {
+        "768": "images/gallery/1b-aries-768.webp",
+        "576": "images/gallery/1b-aries-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Touro"
+      },
+      "images": {
+        "768": "images/gallery/2a-taurus-768.webp",
+        "576": "images/gallery/2a-taurus-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Touro"
+      },
+      "images": {
+        "768": "images/gallery/2b-taurus-768.webp",
+        "576": "images/gallery/2b-taurus-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Gêmeos"
+      },
+      "images": {
+        "768": "images/gallery/3a-gemini-768.webp",
+        "576": "images/gallery/3a-gemini-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Gêmeos"
+      },
+      "images": {
+        "768": "images/gallery/3b-gemini-768.webp",
+        "576": "images/gallery/3b-gemini-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Câncer"
+      },
+      "images": {
+        "768": "images/gallery/4a-cancer-768.webp",
+        "576": "images/gallery/4a-cancer-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Câncer"
+      },
+      "images": {
+        "768": "images/gallery/4b-cancer-768.webp",
+        "576": "images/gallery/4b-cancer-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Leo"
+      },
+      "images": {
+        "768": "images/gallery/5a-leo-768.webp",
+        "576": "images/gallery/5a-leo-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Leo"
+      },
+      "images": {
+        "768": "images/gallery/5b-leo-768.webp",
+        "576": "images/gallery/5b-leo-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Virgem"
+      },
+      "images": {
+        "768": "images/gallery/6a-virgo-768.webp",
+        "576": "images/gallery/6a-virgo-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Virgem"
+      },
+      "images": {
+        "768": "images/gallery/6b-virgo-768.webp",
+        "576": "images/gallery/6b-virgo-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Libra"
+      },
+      "images": {
+        "768": "images/gallery/7a-libra-768.webp",
+        "576": "images/gallery/7a-libra-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Libra"
+      },
+      "images": {
+        "768": "images/gallery/7b-libra-768.webp",
+        "576": "images/gallery/7b-libra-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Escorpião"
+      },
+      "images": {
+        "768": "images/gallery/8a-scorpio-768.webp",
+        "576": "images/gallery/8a-scorpio-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Escorpião"
+      },
+      "images": {
+        "768": "images/gallery/8b-scorpio-768.webp",
+        "576": "images/gallery/8b-scorpio-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Sagitário"
+      },
+      "images": {
+        "768": "images/gallery/9a-sagittarius-768.webp",
+        "576": "images/gallery/9a-sagittarius-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Sagitário"
+      },
+      "images": {
+        "768": "images/gallery/9b-sagittarius-768.webp",
+        "576": "images/gallery/9b-sagittarius-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Capricórnio"
+      },
+      "images": {
+        "768": "images/gallery/10a-capricorn-768.webp",
+        "576": "images/gallery/10a-capricorn-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Capricórnio"
+      },
+      "images": {
+        "768": "images/gallery/10b-capricorn-768.webp",
+        "576": "images/gallery/10b-capricorn-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Aquário"
+      },
+      "images": {
+        "768": "images/gallery/11a-aquarius-768.webp",
+        "576": "images/gallery/11a-aquarius-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Aquário"
+      },
+      "images": {
+        "768": "images/gallery/11b-aquarius-768.webp",
+        "576": "images/gallery/11b-aquarius-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Peixes"
+      },
+      "images": {
+        "768": "images/gallery/12a-pisces-768.webp",
+        "576": "images/gallery/12a-pisces-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Armadura Sagrada de Peixes"
+      },
+      "images": {
+        "768": "images/gallery/12b-pisces-768.webp",
+        "576": "images/gallery/12b-pisces-576.webp"
+      }
+    }
+  ]
+}

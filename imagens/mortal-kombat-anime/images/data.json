@@ -1,0 +1,155 @@
+{
+  "settings": {
+    "name": "Mortal Kombat versão Anime",
+    "captions": true,
+    "credits": "© Jonathan Pires"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "description": "Sub-zero"
+      },
+      "images": {
+        "1x": "images/gallery/1.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Liu Kang"
+      },
+      "images": {
+        "1x": "images/gallery/2.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Shang Tsung"
+      },
+      "images": {
+        "1x": "images/gallery/3.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Jax Briggs"
+      },
+      "images": {
+        "1x": "images/gallery/4.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Sonya Blade"
+      },
+      "images": {
+        "1x": "images/gallery/5.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Kurtis Stryker"
+      },
+      "images": {
+        "1x": "images/gallery/6.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Kano"
+      },
+      "images": {
+        "1x": "images/gallery/7.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Kung Lao"
+      },
+      "images": {
+        "1x": "images/gallery/8.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Shao Khan"
+      },
+      "images": {
+        "1x": "images/gallery/9.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Sheeva"
+      },
+      "images": {
+        "1x": "images/gallery/10.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Motaro"
+      },
+      "images": {
+        "1x": "images/gallery/11.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Kabal"
+      },
+      "images": {
+        "1x": "images/gallery/12.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Cyrax"
+      },
+      "images": {
+        "1x": "images/gallery/13.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Sektor"
+      },
+      "images": {
+        "1x": "images/gallery/14.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Smoke"
+      },
+      "images": {
+        "1x": "images/gallery/15.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Sindel"
+      },
+      "images": {
+        "1x": "images/gallery/16.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Kuai Liang (Sub-Zero)"
+      },
+      "images": {
+        "1x": "images/gallery/17.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Nightwolf"
+      },
+      "images": {
+        "1x": "images/gallery/18.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "settings": {
+    "name": "Fuuusão #2",
+    "captions": true,
+    "credits": "© [Linda Bouderbala](https://www.instagram.com/linda_bouderbala/)",
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+       "title": "Aang & Freeza",
+        "description": "Avatar: A Lenda de Aang / Dragon Ball"
+      },
+      "images": {
+        "768": "images/gallery/aang-frieza-1-768.webp",
+        "576": "images/gallery/aang-frieza-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/aang-frieza-2-768.webp",
+        "576": "images/gallery/aang-frieza-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Arlequina & Alice",
+        "description": "DC Comics / Alice no Paíse das Maravilhas"
+      },
+      "images": {
+        "768": "images/gallery/alice-harley-quinn-1-768.webp",
+        "576": "images/gallery/alice-harley-quinn-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/alice-harley-quinn-2-768.webp",
+        "576": "images/gallery/alice-harley-quinn-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Brook & Motoqueiro Fantasma",
+        "description": "One Piece / Marvel Comics"
+      },
+      "images": {
+        "768": "images/gallery/brook-ghostrider-1-768.webp",
+        "576": "images/gallery/brook-ghostrider-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/brook-ghostrider-2-768.webp",
+        "576": "images/gallery/brook-ghostrider-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Bulma & Lena Oxton (Tracer)",
+        "description": "Dragon Ball / Overwatch"
+      },
+      "images": {
+        "768": "images/gallery/bulma-lena-oxton-tracer-1-768.webp",
+        "576": "images/gallery/bulma-lena-oxton-tracer-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/bulma-lena-oxton-tracer-2-768.webp",
+        "576": "images/gallery/bulma-lena-oxton-tracer-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "C3PO & Megaman",
+        "description": "Star Wars / CAPCOM"
+      },
+      "images": {
+        "768": "images/gallery/c3po-megaman-1-768.webp",
+        "576": "images/gallery/c3po-megaman-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/c3po-megaman-2-768.webp",
+        "576": "images/gallery/c3po-megaman-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Calimero & Marvin, o Androide Paranoico",
+        "description": "TOEI Animation / Guia do Mochileiro das Galáxias"
+      },
+      "images": {
+        "768": "images/gallery/calimero-marvin-the-paranoid-android-1-768.webp",
+        "576": "images/gallery/calimero-marvin-the-paranoid-android-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/calimero-marvin-the-paranoid-android-2-768.webp",
+        "576": "images/gallery/calimero-marvin-the-paranoid-android-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Capitão Planeta & Homem de Ferro",
+        "description": "Warner Bros. / Marvel Comics"
+      },
+      "images": {
+        "768": "images/gallery/captain-planet-iron-man-1-768.webp",
+        "576": "images/gallery/captain-planet-iron-man-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/captain-planet-iron-man-2-768.webp",
+        "576": "images/gallery/captain-planet-iron-man-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Celia & Rapunzel",
+        "description": "Monstros S.A. / Walt Disney"
+      },
+      "images": {
+        "768": "images/gallery/celia-rapunzel-1-768.webp",
+        "576": "images/gallery/celia-rapunzel-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/celia-rapunzel-2-768.webp",
+        "576": "images/gallery/celia-rapunzel-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Chewbacca & Grinch",
+        "description": "Star Wars / Dr. Seuss"
+      },
+      "images": {
+        "768": "images/gallery/chewbacca-grinch-1-768.webp",
+        "576": "images/gallery/chewbacca-grinch-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/chewbacca-grinch-2-768.webp",
+        "576": "images/gallery/chewbacca-grinch-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Chu Totoro & Ursinho Sol",
+        "description": "Studio Ghibli / Ursinhos Carinhosos"
+      },
+      "images": {
+        "768": "images/gallery/chu-totoro-funshine-1-768.webp",
+        "576": "images/gallery/chu-totoro-funshine-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/chu-totoro-funshine-2-768.webp",
+        "576": "images/gallery/chu-totoro-funshine-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Cruella de Vil & Hera Venenosa",
+        "description": "Walt Disney / DC Comics"
+      },
+      "images": {
+        "768": "images/gallery/cruella-devil-poison-ivy-1-768.webp",
+        "576": "images/gallery/cruella-devil-poison-ivy-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/cruella-devil-poison-ivy-2-768.webp",
+        "576": "images/gallery/cruella-devil-poison-ivy-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Eric Cartman & Superman",
+        "description": "South Park / DC Comics"
+      },
+      "images": {
+        "768": "images/gallery/eric-cartman-superman-1-768.webp",
+        "576": "images/gallery/eric-cartman-superman-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/eric-cartman-superman-2-768.webp",
+        "576": "images/gallery/eric-cartman-superman-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Fumikage Tokoyami & The Traveler",
+        "description": "Boku no Hero Academia / Journey"
+      },
+      "images": {
+        "768": "images/gallery/fumikage-tokoyami-the-traveler-journey-1-768.webp",
+        "576": "images/gallery/fumikage-tokoyami-the-traveler-journey-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/fumikage-tokoyami-the-traveler-journey-2-768.webp",
+        "576": "images/gallery/fumikage-tokoyami-the-traveler-journey-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Gizmo & Raving Rabbid",
+        "description": "Gremlins / Rayman Raving Rabbid"
+      },
+      "images": {
+        "768": "images/gallery/gizmo-raving-rabbid-1-768.webp",
+        "576": "images/gallery/gizmo-raving-rabbid-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/gizmo-raving-rabbid-2-768.webp",
+        "576": "images/gallery/gizmo-raving-rabbid-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Helga Pataki & Alita",
+        "description": "Nickelodeon's \"Hey Arnold!\" / \"Gunnm\" by Yukito Kishiro"
+      },
+      "images": {
+        "768": "images/gallery/helga-pataki-alita-1-768.webp",
+        "576": "images/gallery/helga-pataki-alita-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/helga-pataki-alita-2-768.webp",
+        "576": "images/gallery/helga-pataki-alita-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Hellboy & Gênio",
+        "description": "Dark Horse Comics / Walt Disney"
+      },
+      "images": {
+        "768": "images/gallery/hellboy-genie-1-768.webp",
+        "576": "images/gallery/hellboy-genie-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/hellboy-genie-2-768.webp",
+        "576": "images/gallery/hellboy-genie-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Hello Kitty & Pikachu",
+        "description": "Hello Kitty / Pokémon"
+      },
+      "images": {
+        "768": "images/gallery/hello-kitty-pikachu-1-768.webp",
+        "576": "images/gallery/hello-kitty-pikachu-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/hello-kitty-pikachu-2-768.webp",
+        "576": "images/gallery/hello-kitty-pikachu-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Hisoka Morow & Gandalf",
+        "description": "Hunter × Hunter / O Senhor dos Anéis"
+      },
+      "images": {
+        "768": "images/gallery/hisoka-morow-gandalf-1-768.webp",
+        "576": "images/gallery/hisoka-morow-gandalf-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/hisoka-morow-gandalf-2-768.webp",
+        "576": "images/gallery/hisoka-morow-gandalf-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Hit-Girl & Chun-Li",
+        "description": "Kick-Ass / Street Fighter"
+      },
+      "images": {
+        "768": "images/gallery/hitgirl-chun-li-1-768.webp",
+        "576": "images/gallery/hitgirl-chun-li-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/hitgirl-chun-li-2-768.webp",
+        "576": "images/gallery/hitgirl-chun-li-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Iago & Kevin",
+        "description": "Aladdin / Meu Malvado Favorito"
+      },
+      "images": {
+        "768": "images/gallery/iago-kevin-minion-1-768.webp",
+        "576": "images/gallery/iago-kevin-minion-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/iago-kevin-minion-2-768.webp",
+        "576": "images/gallery/iago-kevin-minion-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Inspetor Bugiganga & Rick Sanchez",
+        "description": "WildBrain Ltd. / Rick and Morty"
+      },
+      "images": {
+        "768": "images/gallery/inspector-gadget-rick-sanchez-1-768.webp",
+        "576": "images/gallery/inspector-gadget-rick-sanchez-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/inspector-gadget-rick-sanchez-2-768.webp",
+        "576": "images/gallery/inspector-gadget-rick-sanchez-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Jessie & Yzma",
+        "description": "Pokémon / A Nova Onda do Imperador"
+      },
+      "images": {
+        "768": "images/gallery/jessie-yzma-1-768.webp",
+        "576": "images/gallery/jessie-yzma-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/jessie-yzma-2-768.webp",
+        "576": "images/gallery/jessie-yzma-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Jinx & Princesa Jasmine",
+        "description": "Riot Games' \"League of Legends\" / Aladdin"
+      },
+      "images": {
+        "768": "images/gallery/jinx-princess-jasmine-1-768.webp",
+        "576": "images/gallery/jinx-princess-jasmine-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/jinx-princess-jasmine-2-768.webp",
+        "576": "images/gallery/jinx-princess-jasmine-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Coringa & Pennywise",
+        "description": "DC Comics / Stephen King's \"Pennywise\""
+      },
+      "images": {
+        "768": "images/gallery/joker-pennywise-1-768.webp",
+        "576": "images/gallery/joker-pennywise-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/joker-pennywise-2-768.webp",
+        "576": "images/gallery/joker-pennywise-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Jynx & Lara Croft",
+        "description": "Pokémon / Square Enix's \"Tomb Raider\""
+      },
+      "images": {
+        "768": "images/gallery/jynx-lara-croft-1-768.webp",
+        "576": "images/gallery/jynx-lara-croft-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/jynx-lara-croft-2-768.webp",
+        "576": "images/gallery/jynx-lara-croft-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Kirby & Pual",
+        "description": "Nintendo / Dragon Ball"
+      },
+      "images": {
+        "768": "images/gallery/kirby-puar-1-768.webp",
+        "576": "images/gallery/kirby-puar-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/kirby-puar-2-768.webp",
+        "576": "images/gallery/kirby-puar-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Krusty & John Blacksad",
+        "description": "Os Simpsons / Société Dargaud"
+      },
+      "images": {
+        "768": "images/gallery/krusty-the-clown-john-blacksad-1-768.webp",
+        "576": "images/gallery/krusty-the-clown-john-blacksad-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/krusty-the-clown-john-blacksad-2-768.webp",
+        "576": "images/gallery/krusty-the-clown-john-blacksad-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "LeeLoo & Betty Boop",
+        "description": "O Quinto Elemento (1997) / Fleischer Studios"
+      },
+      "images": {
+        "768": "images/gallery/leeloo-betty-boop-1-768.webp",
+        "576": "images/gallery/leeloo-betty-boop-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/leeloo-betty-boop-2-768.webp",
+        "576": "images/gallery/leeloo-betty-boop-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Luigi & Waldo",
+        "description": "Super Mario World / Onde está Wally?"
+      },
+      "images": {
+        "768": "images/gallery/luigi-waldo-wally-1-768.webp",
+        "576": "images/gallery/luigi-waldo-wally-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/luigi-waldo-wally-2-768.webp",
+        "576": "images/gallery/luigi-waldo-wally-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Machamp & Darth Maul",
+        "description": "Pokémon / Star Wars"
+      },
+      "images": {
+        "768": "images/gallery/machamp-darth-maul-1-768.webp",
+        "576": "images/gallery/machamp-darth-maul-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/machamp-darth-maul-2-768.webp",
+        "576": "images/gallery/machamp-darth-maul-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Malévola & Gardevoir",
+        "description": "Walt Disney / Pokémon"
+      },
+      "images": {
+        "768": "images/gallery/maleficent-gardevoir-1-768.webp",
+        "576": "images/gallery/maleficent-gardevoir-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/maleficent-gardevoir-2-768.webp",
+        "576": "images/gallery/maleficent-gardevoir-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Megamente & Macaco Louco",
+        "description": "Universal Pictures / As Meninas Super Poderosas"
+      },
+      "images": {
+        "768": "images/gallery/megamind-mojo-jojo-1-768.webp",
+        "576": "images/gallery/megamind-mojo-jojo-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/megamind-mojo-jojo-2-768.webp",
+        "576": "images/gallery/megamind-mojo-jojo-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Mr. Meeseeks & Baymax",
+        "description": "Rick and Morty / Operação Big Hero"
+      },
+      "images": {
+        "768": "images/gallery/mr-meeseeks-baymax-1-768.webp",
+        "576": "images/gallery/mr-meeseeks-baymax-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/mr-meeseeks-baymax-2-768.webp",
+        "576": "images/gallery/mr-meeseeks-baymax-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Naruto & Capitão Harlock",
+        "description": "Naruto / Space Pirate Captain Harlock"
+      },
+      "images": {
+        "768": "images/gallery/naruto-captain-harlock-1-768.webp",
+        "576": "images/gallery/naruto-captain-harlock-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/naruto-captain-harlock-2-768.webp",
+        "576": "images/gallery/naruto-captain-harlock-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Nebula & Alegria",
+        "description": "Marvel Comics / DreamWorks' \"Divertida-mente\""
+      },
+      "images": {
+        "768": "images/gallery/nebula-joy-1-768.webp",
+        "576": "images/gallery/nebula-joy-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/nebula-joy-2-768.webp",
+        "576": "images/gallery/nebula-joy-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Obelix & Hulk",
+        "description": "As Aventuras de Asterix / Marvel Comics"
+      },
+      "images": {
+        "768": "images/gallery/obelix-hulk-1-768.webp",
+        "576": "images/gallery/obelix-hulk-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/obelix-hulk-2-768.webp",
+        "576": "images/gallery/obelix-hulk-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Panoramix & Dhalsim",
+        "description": "As Aventuras de Asterix / Street Fighter"
+      },
+      "images": {
+        "768": "images/gallery/panoramix-dhalsim-1-768.webp",
+        "576": "images/gallery/panoramix-dhalsim-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/panoramix-dhalsim-2-768.webp",
+        "576": "images/gallery/panoramix-dhalsim-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Pantera Cor-de-Rosa & Jack Skellington",
+        "description": "Metro-Goldwyn-Mayer / O Estranho Mundo de Jack"
+      },
+      "images": {
+        "768": "images/gallery/pink-panther-jack-skellington-1-768.webp",
+        "576": "images/gallery/pink-panther-jack-skellington-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/pink-panther-jack-skellington-2-768.webp",
+        "576": "images/gallery/pink-panther-jack-skellington-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Pinóquio & Groot",
+        "description": "Walt Disney / Marvel Comics"
+      },
+      "images": {
+        "768": "images/gallery/pinocchio-groot-1-768.webp",
+        "576": "images/gallery/pinocchio-groot-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/pinocchio-groot-2-768.webp",
+        "576": "images/gallery/pinocchio-groot-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Princesa Jujuba & Marge Simpson",
+        "description": "Hora de Aventura / Os Simpson"
+      },
+      "images": {
+        "768": "images/gallery/princess-bubblegum-marge-1-768.webp",
+        "576": "images/gallery/princess-bubblegum-marge-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/princess-bubblegum-marge-2-768.webp",
+        "576": "images/gallery/princess-bubblegum-marge-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Princesa Carolyn & Neytiri",
+        "description": "BoJack Horseman / James Cameron's \"Avatar\" (2009)"
+      },
+      "images": {
+        "768": "images/gallery/princess-carolyn-neytiri-1-768.webp",
+        "576": "images/gallery/princess-carolyn-neytiri-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/princess-carolyn-neytiri-2-768.webp",
+        "576": "images/gallery/princess-carolyn-neytiri-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Ravena & Cereza",
+        "description": "DC Comics / Bayonetta"
+      },
+      "images": {
+        "768": "images/gallery/raven-cereza-bayonetta-1-768.webp",
+        "576": "images/gallery/raven-cereza-bayonetta-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/raven-cereza-bayonetta-2-768.webp",
+        "576": "images/gallery/raven-cereza-bayonetta-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "RoboCop & Bender",
+        "description": "Metro-Goldwyn-Mayer / Futurama"
+      },
+      "images": {
+        "768": "images/gallery/robocop-bender-1-768.webp",
+        "576": "images/gallery/robocop-bender-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/robocop-bender-2-768.webp",
+        "576": "images/gallery/robocop-bender-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Tristeza & Jessica Rabbit",
+        "description": "DreamWorks' \"Divertidamente\" / Uma Cilada para Roger Rabbit (1988)"
+      },
+      "images": {
+        "768": "images/gallery/sadness-jessica-rabbit-768.webp",
+        "576": "images/gallery/sadness-jessica-rabbit-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/sadness-jessica-rabbit-2-768.webp",
+        "576": "images/gallery/sadness-jessica-rabbit-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Sailor Moon & Magia",
+        "description": "Sailor Moon / DC Comics"
+      },
+      "images": {
+        "768": "images/gallery/sailor-moon-enchantress-1-768.webp",
+        "576": "images/gallery/sailor-moon-enchantress-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/sailor-moon-enchantress-2-768.webp",
+        "576": "images/gallery/sailor-moon-enchantress-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Sakura Haruno & Princesa Peach",
+        "description": "Naruto / Super Mario World"
+      },
+      "images": {
+        "768": "images/gallery/sakura-haruno-princess-peach-1-768.webp",
+        "576": "images/gallery/sakura-haruno-princess-peach-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/sakura-haruno-princess-peach-2-768.webp",
+        "576": "images/gallery/sakura-haruno-princess-peach-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Sally & Annie Leonhart",
+        "description": "O Estranho Mundo de Jack / Attack on Titans"
+      },
+      "images": {
+        "768": "images/gallery/sally-annie leonhart-human-1-768.webp",
+        "576": "images/gallery/sally-annie leonhart-human-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/sally-annie leonhart-human-2-768.webp",
+        "576": "images/gallery/sally-annie leonhart-human-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Papai Noel & Espantalho",
+        "description": "Folcore Popular / Final Fantasy"
+      },
+      "images": {
+        "768": "images/gallery/santa-claus-the-scarecrow-final-fantasy-1-768.webp",
+        "576": "images/gallery/santa-claus-the-scarecrow-final-fantasy-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/santa-claus-the-scarecrow-final-fantasy-2-768.webp",
+        "576": "images/gallery/santa-claus-the-scarecrow-final-fantasy-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Shy Guy & \"V\"",
+        "description": "Super Mario World / \"V\" de Vingança (2005)"
+      },
+      "images": {
+        "768": "images/gallery/shy-guy-1-768.webp",
+        "576": "images/gallery/shy-guy-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/shy-guy-v-2-768.webp",
+        "576": "images/gallery/shy-guy-v-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Sonic & Blanka",
+        "description": "SEGA Corporation / Street Fighter"
+      },
+      "images": {
+        "768": "images/gallery/sonic-blanka-1-768.webp",
+        "576": "images/gallery/sonic-blanka-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/sonic-blanka-2-768.webp",
+        "576": "images/gallery/sonic-blanka-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Stitch & Marsupilami",
+        "description": "Walt Disney / Marsu Productions"
+      },
+      "images": {
+        "768": "images/gallery/stitch-marsupilami-1-768.webp",
+        "576": "images/gallery/stitch-marsupilami-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/stitch-marsupilami-2-768.webp",
+        "576": "images/gallery/stitch-marsupilami-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Sininho & Smurfette",
+        "description": "Peter Pan / Os Smurfs"
+      },
+      "images": {
+        "768": "images/gallery/tinker-bell-smurfette-1-768.webp",
+        "576": "images/gallery/tinker-bell-smurfette-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/tinker-bell-smurfette-2-768.webp",
+        "576": "images/gallery/tinker-bell-smurfette-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Toad & Sultão de Agrabah",
+        "description": "Super Mario World / Aladdin"
+      },
+      "images": {
+        "768": "images/gallery/toad-the-sultan-1-768.webp",
+        "576": "images/gallery/toad-the-sultan-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/toad-the-sultan-2-768.webp",
+        "576": "images/gallery/toad-the-sultan-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Turanga Leela & Princesa Mononoki",
+        "description": "Futurama / Studio Ghibli"
+      },
+      "images": {
+        "768": "images/gallery/turanga-leela-princess-mononoki-1-768.webp",
+        "576": "images/gallery/turanga-leela-princess-mononoki-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/turanga-leela-princess-mononoki-2-768.webp",
+        "576": "images/gallery/turanga-leela-princess-mononoki-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Wandinha Addams & Ibara Shiozaki",
+        "description": "A Família Addams / Boku no Hero Academia"
+      },
+      "images": {
+        "768": "images/gallery/wednesday-addams-ibara-shiozaki-1-768.webp",
+        "576": "images/gallery/wednesday-addams-ibara-shiozaki-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/wednesday-addams-ibara-shiozaki-2-768.webp",
+        "576": "images/gallery/wednesday-addams-ibara-shiozaki-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Mulher Maravilha & She-Ra",
+        "description": "DC Comics / Filmation & Matel Inc."
+      },
+      "images": {
+        "768": "images/gallery/wonder-woman-she-ra-1-768.webp",
+        "576": "images/gallery/wonder-woman-she-ra-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/wonder-woman-she-ra-2-768.webp",
+        "576": "images/gallery/wonder-woman-she-ra-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Detona Ralph & Electabuzz",
+        "description": "Walt Disney / Pokémon"
+      },
+      "images": {
+        "768": "images/gallery/wreck-it-ralph-electabuzz-1-768.webp",
+        "576": "images/gallery/wreck-it-ralph-electabuzz-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/wreck-it-ralph-electabuzz-2-768.webp",
+        "576": "images/gallery/wreck-it-ralph-electabuzz-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Zangief & James P. Sullivan",
+        "description": "Street Fighter / Monstros S.A."
+      },
+      "images": {
+        "768": "images/gallery/zangief-james-p-sullivan-1-768.webp",
+        "576": "images/gallery/zangief-james-p-sullivan-1-576.webp"
+      }
+    },
+    {
+     "cover": false,
+      "images": {
+        "768": "images/gallery/zangief-james-p-sullivan-2-768.webp",
+        "576": "images/gallery/zangief-james-p-sullivan-2-576.webp"
+      }
+    }
+  ]
+}

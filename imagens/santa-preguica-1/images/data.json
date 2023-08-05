@@ -1,0 +1,91 @@
+{
+  "settings": {
+    "name": "Santa Preguiça #1",
+    "captions": true
+  },
+
+  "gallery": [
+
+    {
+      "cover": true,
+      "caption": {
+        "description": "Se até o Jack Black faz, por que você não faria ^^"
+      },
+      "images": {
+        "1x": "images/gallery/1.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "  Ninguém disse que o dono também tinha que se exercitar. Se bem que nesse caso..."
+      },
+      "images": {
+        "1x": "images/gallery/2.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Esse levou o ditado \"o que os olhos não vêem, o coração não sente\" um pouco a sério demais"
+      },
+      "images": {
+        "1x": "images/gallery/3.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Porque pegar a escada, subir, mover o ponteiro, descer e guardar a escada é muito mainstream"
+      },
+      "images": {
+        "1x": "images/gallery/4.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Erm...."
+      },
+      "images": {
+        "1x": "images/gallery/5.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Pelo jeito as instruções não estavam muito claras"
+      },
+      "images": {
+        "1x": "images/gallery/6.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Se funciona..."
+      },
+      "images": {
+        "1x": "images/gallery/7.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Em defesa do preguiçoso, alguns desses adesivos parecem ser colados com SuperBonder u.u'"
+      },
+      "images": {
+        "1x": "images/gallery/8.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "\"Porque se preocupar com o amanhã, se ele acaba depois de amanhã\""
+      },
+      "images": {
+        "1x": "images/gallery/9.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "\"E reclama pra ver se eu não tiro a vela também\" — mãe"
+      },
+      "images": {
+        "1x": "images/gallery/10.webp"
+      }
+    }
+  ]
+}

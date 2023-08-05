@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "name": "Cheeseburger",
+    "captions": false,
+    "credits": "© [KatRaccoon](https://www.instagram.com/p/CdYS28yuvqY/)",
+    "notes": "Baseado em: [fatos venéreos](https://www.instagram.com/p/CfebyQdAe0s/)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "images": {
+        "768": "images/gallery/1-768.webp",
+        "576": "images/gallery/1-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/2-768.webp",
+        "576": "images/gallery/2-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/3-768.webp",
+        "576": "images/gallery/3-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/4-768.webp",
+        "576": "images/gallery/4-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/5-768.webp",
+        "576": "images/gallery/5-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/6-768.webp",
+        "576": "images/gallery/6-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/7-768.webp",
+        "576": "images/gallery/7-576.webp"
+      }
+    }
+  ]
+}

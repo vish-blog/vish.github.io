@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "name": "Ta Serto",
+    "captions": true
+  },
+
+  "gallery": [
+
+    {
+      "cover": true,
+      "caption": {
+        "description": "TÁ, TÁ, TÁ, TÁ... TÁ!!!"
+      },
+      "images": {
+        "1x": "images/gallery/1.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "1x": "images/gallery/2.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Eu acho que não é só de funcionário que você precisa, amigo"
+      },
+      "images": {
+        "1x": "images/gallery/3.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E se eu quiser morar sozinho?"
+      },
+      "images": {
+        "1x": "images/gallery/4.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Que bom, né?"
+      },
+      "images": {
+        "1x": "images/gallery/5.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Ingrato"
+      },
+      "images": {
+        "1x": "images/gallery/6.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Se ao menos fosse um barco..."
+      },
+      "images": {
+        "1x": "images/gallery/7.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "1x": "images/gallery/8.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "1x": "images/gallery/9.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "1x": "images/gallery/10.webp"
+      }
+    }
+  ]
+}

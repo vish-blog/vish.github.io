@@ -1,0 +1,160 @@
+{
+  "settings": {
+    "name": "Princesas Disney na Quarentena",
+    "captions": true,
+    "credits": "© [Simple Madama](https://www.instagram.com/simplemadama/) • [Lorenza Di Sepio](https://www.instagram.com/fdasuarez/)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "title": "Bela",
+        "description": "*A Bela e a Fera (1991)*"
+      },
+      "images": {
+        "576": "images/gallery/1.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Tiana",
+        "description": "*A Princesa e o Sapo (2009)*"
+      },
+      "images": {
+        "576": "images/gallery/2.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Jasmine",
+        "description": "*Aladdin (1992)*"
+      },
+      "images": {
+        "576": "images/gallery/3.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Merida",
+        "description": "*Valente (2012)*"
+      },
+      "images": {
+        "576": "images/gallery/4.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Rapunzel",
+        "description": "*Enrolados (2010)*"
+      },
+      "images": {
+        "576": "images/gallery/5.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Branca de Neve",
+        "description": "*Branca de Neve e os Sete Anões (1937)*"
+      },
+      "images": {
+        "576": "images/gallery/6.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Ariel",
+        "description": "*A Pequena Sereia (1989)*"
+      },
+      "images": {
+        "576": "images/gallery/7.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Cinderella",
+        "description": "*Cinderella (1950)*"
+      },
+      "images": {
+        "576": "images/gallery/8.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Elsa & Anna",
+        "description": "*Frozen (2013)*"
+      },
+      "images": {
+        "576": "images/gallery/9.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Leia",
+        "description": "*Star Wars: Uma Nova Esperança (1977)*"
+      },
+      "images": {
+        "576": "images/gallery/10.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Moana",
+        "description": "*Moana (2016)*"
+      },
+      "images": {
+        "576": "images/gallery/11.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Mulan",
+        "description": "*Mulan (1998)*"
+      },
+      "images": {
+        "576": "images/gallery/12.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Anastasia",
+        "description": "*Anastasia (1997)*"
+      },
+      "images": {
+        "576": "images/gallery/13.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Aurora",
+        "description": "*A Bela Adormecida (1959)*"
+      },
+      "images": {
+        "576": "images/gallery/14.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Pocahontas",
+        "description": "*Pocahontas (1995)*"
+      },
+      "images": {
+        "576": "images/gallery/15.webp"
+      }
+    }
+  ]
+}

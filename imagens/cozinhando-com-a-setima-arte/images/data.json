@@ -1,0 +1,138 @@
+{
+  "settings": {
+    "name": "Cozinhando com a Sétima Arte",
+    "captions": true,
+    "credits": "© [Cheekylicious](https://www.deviantart.com/cheekylicious)",
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+       "title": "Steven Spielberg",
+        "description": "*Jurassic Park (1993)*"
+      },
+      "images": {
+        "1x": "images/gallery/1.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Tim Burton",
+        "description": "*Beetlejuice (1988)*"
+      },
+      "images": {
+        "1x": "images/gallery/2.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Christopher Nolan",
+        "description": "*Batman Begins (2005)*"
+      },
+      "images": {
+        "1x": "images/gallery/3.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Peter Jackon",
+        "description": "*O Senhor dos Anéis (2001) / O Hobbit (2014)*"
+      },
+      "images": {
+        "1x": "images/gallery/4.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "George Lucas",
+        "description": "*Star Wars (1977 - 2005)*"
+      },
+      "images": {
+        "1x": "images/gallery/5.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Wes Anderson",
+        "description": "*O Grande Hotel Budapeste (2014)*"
+      },
+      "images": {
+        "1x": "images/gallery/6.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Michael Bay",
+        "description": "*Transformers (2007 - 2017)*"
+      },
+      "images": {
+        "1x": "images/gallery/7.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "James Cameron",
+        "description": "*Titanic (1998) / Avatar (2009)*"
+      },
+      "images": {
+        "1x": "images/gallery/8.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Irmãos Coen",
+        "description": "*Queime Depois de Ler (2008)*"
+      },
+      "images": {
+        "1x": "images/gallery/9.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "David Lynch",
+        "description": "*Dune (1984)*"
+      },
+      "images": {
+        "1x": "images/gallery/10.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Uwe Boll",
+        "description": "*Rampage - Sede de Vingança (2009)*"
+      },
+      "images": {
+        "1x": "images/gallery/11.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Hayao Miyazaki",
+        "description": "*A Viagem de Chihiro (2003) / Castelo Animado (2005)*"
+      },
+      "images": {
+        "1x": "images/gallery/12.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Terrence Malick",
+        "description": "*A Árvore da Vida (2011)*"
+      },
+      "images": {
+        "1x": "images/gallery/13.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Quentin tarantino",
+        "description": "*Kill Bill (2003) / Bastardos Inglórios (2009)*"
+      },
+      "images": {
+        "1x": "images/gallery/14.webp"
+      }
+    }
+  ]
+}

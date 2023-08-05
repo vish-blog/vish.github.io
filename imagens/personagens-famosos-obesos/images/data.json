@@ -1,0 +1,1051 @@
+{
+  "settings": {
+    "name": "Personagens Famosos Obesos",
+    "captions": true,
+    "credits": "© [Alex Solis](https://www.instagram.com/alexmdc)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "description": "Abraham Lincoln"
+      },
+      "images": {
+        "1x": "images/gallery/abraham-lincoln.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Alien",
+        "description": "Alien vs. Predador"
+      },
+      "images": {
+        "1x": "images/gallery/alien-predator-alien.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Predador",
+        "description": "Alien vs. Predador"
+      },
+      "images": {
+        "1x": "images/gallery/alien-predator-predator.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Capitão Planeta"
+      },
+      "images": {
+        "1x": "images/gallery/captain-planet.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Harmonia",
+        "description": "*Ursinhos Carinhosos*"
+      },
+      "images": {
+        "1x": "images/gallery/care-bear.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Charlie Brown & Snoopy"
+      },
+      "images": {
+        "1x": "images/gallery/charlie-brown-snoopy.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Aquaman",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-aquaman.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Batman, Dark Knight",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-batman-dark-knight.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Batman & Coringa",
+        "description": "*com Adam West (1966)*"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-batman-joker.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Mulher Gato",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-catwoman.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Flash",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-flash.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Hal Jordan (Lanterna Verde)",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-green-lantern-hal-jordan.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Dick Grayson (Robin / Asa Noturna)",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-robin.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Superman",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-superman.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Mulher Maravilha",
+        "description": "DC Comics"
+      },
+      "images": {
+        "1x": "images/gallery/dcu-wonder-woman.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Pato Donald",
+        "description": "Walt Disney"
+      },
+      "images": {
+        "1x": "images/gallery/disney-donald-duck.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Elsa",
+        "description": "*Frozen (2014)*"
+      },
+      "images": {
+        "1x": "images/gallery/disney-elsa.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Ariel",
+        "description": "*A Pequena Sereia (1989)*"
+      },
+      "images": {
+        "1x": "images/gallery/disney-little-mermaid.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Malévola",
+        "description": "*A Bela Adormecida (1959)*"
+      },
+      "images": {
+        "1x": "images/gallery/disney-maleficent.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Mickey Mouse",
+        "description": "Walt Disney"
+      },
+      "images": {
+        "1x": "images/gallery/disney-mickey-mouse.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Branca de Neve",
+        "description": "*Branca de Neve e os Sete Anões (1937)*"
+      },
+      "images": {
+        "1x": "images/gallery/disney-snow-white.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Donkey Kong"
+      },
+      "images": {
+        "1x": "images/gallery/donkey-kong.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Dr. Who"
+      },
+      "images": {
+        "1x": "images/gallery/dr-who.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Gizmo",
+        "description": "*Gremlins (1984)*"
+      },
+      "images": {
+        "1x": "images/gallery/gizmo-gremlin.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Godzilla",
+        "description": "Godzilla (1956)"
+      },
+      "images": {
+        "1x": "images/gallery/godzilla.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Goku Super Sayajin",
+        "description": "Dragon Ball"
+      },
+      "images": {
+        "1x": "images/gallery/goku-ssj.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Harry Potter"
+      },
+      "images": {
+        "1x": "images/gallery/harry-potter.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Hellboy"
+      },
+      "images": {
+        "1x": "images/gallery/hellboy.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Hello Kitty"
+      },
+      "images": {
+        "1x": "images/gallery/hello-kitty.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Jack Skellington",
+        "description": "*O Estranho Mundo de Jack (1993)*"
+      },
+      "images": {
+        "1x": "images/gallery/jack-the-night-before-christmas.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Jake & Finn",
+        "description": "*Hora de Aventura*"
+      },
+      "images": {
+        "1x": "images/gallery/jake-finn.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Jason Voorhees",
+        "description": "*Sexta-feira 13*"
+      },
+      "images": {
+        "1x": "images/gallery/jason.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Link",
+        "description": "*The Legend of Zelda*"
+      },
+      "images": {
+        "1x": "images/gallery/link.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "He-man",
+        "description": "*Mestres do Universo*"
+      },
+      "images": {
+        "1x": "images/gallery/masters-of-the-universe-he-man.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Esqueleto",
+        "description": "*Mestres do Universo*"
+      },
+      "images": {
+        "1x": "images/gallery/masters-of-the-universe-skeletor.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Homem-Formiga",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-antman.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Hulk",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-hulk.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Homem de Ferro",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-iron-man.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Loki",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-loki.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Rocket & Groot",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-rocket-groot.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Thanos",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-thanos.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Thanos",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-thanos-2.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Thor",
+        "description": "*Marvel Cinematic Universe — Os Vingadores*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-avengers-thor.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Dr. Destino",
+        "description": "*Marvel Cinematic Universe — Quarteto Fantástico*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-ff-dr-doom.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Surfista Prateado",
+        "description": "*Marvel Cinematic Universe — Quarteto Fantástico*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-ff-silver-surfer.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Motoqueiro Fantasma",
+        "description": "*Marvel Cinematic Universe*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-ghost-rider.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Justiceiro",
+        "description": "*Marvel Cinematic Universe*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-punisher.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Doutor Octopus",
+        "description": "*Marvel Cinematic Universe — Spiderverse*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-spiderverse-doc-ock.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Duende Verde",
+        "description": "*Marvel Cinematic Universe — Spiderverse*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-spiderverse-green-goblin.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Home-Aranha",
+        "description": "*Marvel Cinematic Universe — Spiderverse*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-spiderverse-spiderman.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Venom",
+        "description": "*Marvel Cinematic Universe — Spiderverse*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-spiderverse-venom.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Fera",
+        "description": "*Marvel Cinematic Universe — X-Men*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-xmen-beast.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Colossus",
+        "description": "*Marvel Cinematic Universe — X-Men*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-xmen-colossus.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Ciclope",
+        "description": "*Marvel Cinematic Universe — X-Men*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-xmen-cyclops.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Magneto",
+        "description": "*Marvel Cinematic Universe — X-Men*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-xmen-magneto.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Tempestade",
+        "description": "*Marvel Cinematic Universe — X-Men*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-xmen-storm.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Wolverine",
+        "description": "*Marvel Cinematic Universe — X-Men*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-xmen-wolverine.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Deadpool",
+        "description": "*Marvel Cinematic Universe — X-Men*"
+      },
+      "images": {
+        "1x": "images/gallery/mcu-xmen-deadpool.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Mega Man"
+      },
+      "images": {
+        "1x": "images/gallery/mega-man.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Super Metroid"
+      },
+      "images": {
+        "1x": "images/gallery/metroid.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Michael Jackson"
+      },
+      "images": {
+        "1x": "images/gallery/michael-jackson.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Rainbow Dash",
+        "description": "*My Little Pony*"
+      },
+      "images": {
+        "1x": "images/gallery/mlp-rainbow-dash-mlp.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Twilight Sparkle",
+        "description": "*My Little Pony*"
+      },
+      "images": {
+        "1x": "images/gallery/mlp-twlight-sparkle-mlp.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Subzero",
+        "description": "*Mortal Kombat*"
+      },
+      "images": {
+        "1x": "images/gallery/mortal-kombat-subzero.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Cookie Monster",
+        "description": "*Muppets*"
+      },
+      "images": {
+        "1x": "images/gallery/muppets-cookie-monster.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Kermit/Caco",
+        "description": "*Muppets*"
+      },
+      "images": {
+        "1x": "images/gallery/muppets-kermit.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Oompa Loompa",
+        "description": "A Fantástica Fábrica de Chocolates (1971)"
+      },
+      "images": {
+        "1x": "images/gallery/oompa-loompa.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Optimus Prime",
+        "description": "*Transformers*"
+      },
+      "images": {
+        "1x": "images/gallery/optimus-prime.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Papa Smurf"
+      },
+      "images": {
+        "1x": "images/gallery/papa-smurf.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Pikachu",
+        "description": "Pokémon"
+      },
+      "images": {
+        "1x": "images/gallery/pokemon-pikachu.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Popeye"
+      },
+      "images": {
+        "1x": "images/gallery/popeye.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Ranger Dragão",
+        "description": "*Power Rangers*"
+      },
+      "images": {
+        "1x": "images/gallery/power-rangers-green-ranger.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Lindinha, Florzinha e Docinho",
+        "description": "*As Meninas Superpoderosas*"
+      },
+      "images": {
+        "1x": "images/gallery/powerpuff-girls.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Robocop"
+      },
+      "images": {
+        "1x": "images/gallery/robocop.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Ronald McDonald"
+      },
+      "images": {
+        "1x": "images/gallery/ronald-mcdonald.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Serena",
+        "description": "*Sailor Moon*"
+      },
+      "images": {
+        "1x": "images/gallery/sailor-moon.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Sonic"
+      },
+      "images": {
+        "1x": "images/gallery/sonic.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Speed Racer"
+      },
+      "images": {
+        "1x": "images/gallery/speed-racer.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Star Fox"
+      },
+      "images": {
+        "1x": "images/gallery/star-fox.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Spock",
+        "description": "*Star Trek*"
+      },
+      "images": {
+        "1x": "images/gallery/star-trek-spock.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Boba Fett",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-boba-fett.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "R2D2 & C3PO",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-c3po-r2d2.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Chewbacca/Chewie",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-chewie.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Darth Maul",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-darth-maul.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Darth Vader",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-darth-vader.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Luke Skywalker",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-luke-skywalker.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Stormtrooper",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-stormtrooper.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Mestre Yoda",
+        "description": "*Star Wars*"
+      },
+      "images": {
+        "1x": "images/gallery/star-wars-yoda.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Chun-Li",
+        "description": "*Street Fighter*"
+      },
+      "images": {
+        "1x": "images/gallery/street-fighter-chun-li.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Dhalsim",
+        "description": "*Street Fighter*"
+      },
+      "images": {
+        "1x": "images/gallery/street-fighter-dhalsim.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Ken",
+        "description": "*Street Fighter*"
+      },
+      "images": {
+        "1x": "images/gallery/street-fighter-ken.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Ryu",
+        "description": "*Street Fighter*"
+      },
+      "images": {
+        "1x": "images/gallery/street-fighter-ryu.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Luigi & Yoshi",
+        "description": "*Super Mario World*"
+      },
+      "images": {
+        "1x": "images/gallery/super-mario-luigi-yoshi.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Mario",
+        "description": "*Super Mario World*"
+      },
+      "images": {
+        "1x": "images/gallery/super-mario-mario.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Princesa Peach",
+        "description": "*Super Mario World*"
+      },
+      "images": {
+        "1x": "images/gallery/super-mario-princess-peach.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Toad",
+        "description": "*Super Mario World*"
+      },
+      "images": {
+        "1x": "images/gallery/super-mario-toad.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "description": "Exterminador do Futuro"
+      },
+      "images": {
+        "1x": "images/gallery/terminator.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Lion-o",
+        "description": "*Thundercats*"
+      },
+      "images": {
+        "1x": "images/gallery/thundercats-lion-o.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Bebop",
+        "description": "*As Tartarugas Ninja*"
+      },
+      "images": {
+        "1x": "images/gallery/tmnt-bebop.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Donatello",
+        "description": "*As Tartarugas Ninja*"
+      },
+      "images": {
+        "1x": "images/gallery/tmnt-donatello.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Leonardo",
+        "description": "*As Tartarugas Ninja*"
+      },
+      "images": {
+        "1x": "images/gallery/tmnt-leonardo.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Michelangelo",
+        "description": "*As Tartarugas Ninja*"
+      },
+      "images": {
+        "1x": "images/gallery/tmnt-michelangelo.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Raphael",
+        "description": "*As Tartarugas Ninja*"
+      },
+      "images": {
+        "1x": "images/gallery/tmnt-raphael.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Rocksteady",
+        "description": "*As Tartarugas Ninja*"
+      },
+      "images": {
+        "1x": "images/gallery/tmnt-rocksteady.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Destruidor",
+        "description": "*As Tartarugas Ninja*"
+      },
+      "images": {
+        "1x": "images/gallery/tmnt-shredder.webp"
+      }
+    },
+
+    {
+      "caption": {
+        "title": "Pernalonga",
+        "description": "Warner Bros."
+      },
+      "images": {
+        "1x": "images/gallery/bugs-bunny-thats-all-folks.webp"
+      }
+    }
+  ]
+}

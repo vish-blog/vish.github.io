@@ -1,0 +1,586 @@
+{
+  "settings": {
+    "name": "Hora das Compras",
+    "captions": true,
+    "credits": "© [Linda Bouderbala](https://www.instagram.com/linda_bouderbala/)",
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+       "title": "ALF",
+        "description": "*ALF, o E. Teimoso (1990)*"
+      },
+      "images": {
+        "768": "images/gallery/alf-768.webp",
+        "576": "images/gallery/alf-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Homem-Formiga",
+        "description": "*Homem-Formiga (2015)*"
+      },
+      "images": {
+        "768": "images/gallery/antman-768.webp",
+        "576": "images/gallery/antman-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "April O'neil",
+        "description": "*Tartarugas Ninjas (1987)*"
+      },
+      "images": {
+        "768": "images/gallery/april-oneil-768.webp",
+        "576": "images/gallery/april-oneil-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Baymax",
+        "description": "*Operação Big Hero (2014)*"
+      },
+      "images": {
+        "768": "images/gallery/baymax-768.webp",
+        "576": "images/gallery/baymax-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Bender",
+        "description": "*Futurama (1997)*"
+      },
+      "images": {
+        "768": "images/gallery/bender-768.webp",
+        "576": "images/gallery/bender-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Candy",
+        "description": "*Space Goofs (1997-2006)*"
+      },
+      "images": {
+        "768": "images/gallery/candy-768.webp",
+        "576": "images/gallery/candy-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Capitão Jack Sparrow",
+        "description": "*Piratas do Caribe (2003-2017)*"
+      },
+      "images": {
+        "768": "images/gallery/captain-jack-sparrow-768.webp",
+        "576": "images/gallery/captain-jack-sparrow-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Mulher-Gato",
+        "description": "*Batman #1 (1940)*"
+      },
+      "images": {
+        "768": "images/gallery/catwoman-768.webp",
+        "576": "images/gallery/catwoman-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Chewbacca",
+        "description": "*Star Wars (1977)*"
+      },
+      "images": {
+        "768": "images/gallery/chewbacca-768.webp",
+        "576": "images/gallery/chewbacca-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Cinderella",
+        "description": "*Cinderella (1950)*"
+      },
+      "images": {
+        "768": "images/gallery/cinderella-768.webp",
+        "576": "images/gallery/cinderella-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Daisy Mae",
+        "description": "*Animal Crossing (2001)*"
+      },
+      "images": {
+        "768": "images/gallery/daisy-mae-768.webp",
+        "576": "images/gallery/daisy-mae-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Deadpool",
+        "description": "*The New Mutants #98 (1991)*"
+      },
+      "images": {
+        "768": "images/gallery/deadpool-768.webp",
+        "576": "images/gallery/deadpool-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Pikachu",
+        "description": "*em \"Detective Pikachu\" (2019)*"
+      },
+      "images": {
+        "768": "images/gallery/detective-pikachu-768.webp",
+        "576": "images/gallery/detective-pikachu-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Eleven",
+        "description": "*Stranger Things (2016)*"
+      },
+      "images": {
+        "768": "images/gallery/eleven-768.webp",
+        "576": "images/gallery/eleven-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "E.T.",
+        "description": "*E.T. o Extra-Terrestre (1982)*"
+      },
+      "images": {
+        "768": "images/gallery/et-768.webp",
+        "576": "images/gallery/et-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Eve",
+        "description": "*Wall-E (2008)*"
+      },
+      "images": {
+        "768": "images/gallery/eve-768.webp",
+        "576": "images/gallery/eve-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Fifi La Fume",
+        "description": "*As Aventuras de Tiny Toons (1990-1995)*"
+      },
+      "images": {
+        "768": "images/gallery/fifi-la-fume-768.webp",
+        "576": "images/gallery/fifi-la-fume-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Garfield",
+        "description": "*Garfield (1980)*"
+      },
+      "images": {
+        "768": "images/gallery/garfield-768.webp",
+        "576": "images/gallery/garfield-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Ghostface",
+        "description": "*Pânico (1997)*"
+      },
+      "images": {
+        "768": "images/gallery/ghostface-768.webp",
+        "576": "images/gallery/ghostface-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Gir",
+        "description": "*Space Invaders (2001)*"
+      },
+      "images": {
+        "768": "images/gallery/gir-768.webp",
+        "576": "images/gallery/gir-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Groot",
+        "description": "*Tales to Astonish #13 (1960)*"
+      },
+      "images": {
+        "768": "images/gallery/groot-768.webp",
+        "576": "images/gallery/groot-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Hakan",
+        "description": "*Street Fighter IV (2004)*"
+      },
+      "images": {
+        "768": "images/gallery/hakan-768.webp",
+        "576": "images/gallery/hakan-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Capitão Pátria",
+        "description": "*The Boys (2019)*"
+      },
+      "images": {
+        "768": "images/gallery/homelander-768.webp",
+        "576": "images/gallery/homelander-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Homer",
+        "description": "*Os Simpsons (1989)*"
+      },
+      "images": {
+        "768": "images/gallery/homer-768.webp",
+        "576": "images/gallery/homer-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Jigglypuff",
+        "description": "*Pokémon (1997)*"
+      },
+      "images": {
+        "768": "images/gallery/jigglypuff-768.webp",
+        "576": "images/gallery/jigglypuff-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "John Wick",
+        "description": "*John Wick (2014)*"
+      },
+      "images": {
+        "768": "images/gallery/john-wick-768.webp",
+        "576": "images/gallery/john-wick-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "KVN",
+        "description": "*Final Space (2018-2021)*"
+      },
+      "images": {
+        "768": "images/gallery/KVN-768.webp",
+        "576": "images/gallery/KVN-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Ariel",
+        "description": "*A Pequena Sereia (1989)*"
+      },
+      "images": {
+        "768": "images/gallery/little-mermaid-768.webp",
+        "576": "images/gallery/little-mermaid-576.webp"
+      }
+    },
+    {
+      "caption": "Chapeuzinho Vermelho",
+      "images": {
+        "768": "images/gallery/little-red-riding-hood-768.webp",
+        "576": "images/gallery/little-red-riding-hood-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Marceline",
+        "description": "*Hora de Aventura (2010-2018)*"
+      },
+      "images": {
+        "768": "images/gallery/marceline-768.webp",
+        "576": "images/gallery/marceline-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Mario",
+        "description": "*Donkey Kong (1981)*"
+      },
+      "images": {
+        "768": "images/gallery/mario-768.webp",
+        "576": "images/gallery/mario-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Minions",
+        "description": "*Meu Malvado Favorito (2010)*"
+      },
+      "images": {
+        "768": "images/gallery/minions-768.webp",
+        "576": "images/gallery/minions-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Mohawk",
+        "description": "*Gremlins 2: A Nova Geração (1990)*"
+      },
+      "images": {
+        "768": "images/gallery/mohawk-768.webp",
+        "576": "images/gallery/mohawk-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Roberto Pera / Sr. Incrível",
+        "description": "*Os Incríveis (2004)*"
+      },
+      "images": {
+        "768": "images/gallery/mr-incredible-768.webp",
+        "576": "images/gallery/mr-incredible-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Mestre Kame / Muten Roshi",
+        "description": "*Dragon Ball (1995)*"
+      },
+      "images": {
+        "768": "images/gallery/muten-roshi-768.webp",
+        "576": "images/gallery/muten-roshi-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Olaf",
+        "description": "*Frozen (2013)*"
+      },
+      "images": {
+        "768": "images/gallery/olaf-768.webp",
+        "576": "images/gallery/olaf-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Pac-Man",
+        "description": "*BANDAI NAMCO Entertainment Inc (1980)*"
+      },
+      "images": {
+        "768": "images/gallery/pacman-768.webp",
+        "576": "images/gallery/pacman-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Pennywise",
+        "description": "*It (1986)*"
+      },
+      "images": {
+        "768": "images/gallery/pennywise-768.webp",
+        "576": "images/gallery/pennywise-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Pinóquio",
+        "description": "*Pinóquio (1940)*"
+      },
+      "images": {
+        "768": "images/gallery/pinocchio-768.webp",
+        "576": "images/gallery/pinocchio-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Hera Venenosa",
+        "description": "*Batman #181 (1966)*"
+      },
+      "images": {
+        "768": "images/gallery/poison-ivy-768.webp",
+        "576": "images/gallery/poison-ivy-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Popeye",
+        "description": "*Popeye, the Sailor Man (1929)*"
+      },
+      "images": {
+        "768": "images/gallery/popeye-768.webp",
+        "576": "images/gallery/popeye-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Professor Utônio",
+        "description": "*As Meninas Super Poderosas (1998)*"
+      },
+      "images": {
+        "768": "images/gallery/professor-utonium-768.webp",
+        "576": "images/gallery/professor-utonium-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Rapunzel",
+        "description": "*em \"Enrolados\" (2010)*"
+      },
+      "images": {
+        "768": "images/gallery/rapunzel-768.webp",
+        "576": "images/gallery/rapunzel-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Rick Sanchez",
+        "description": "*Rick and Morty (2013)*"
+      },
+      "images": {
+        "768": "images/gallery/rick-sanchez-768.webp",
+        "576": "images/gallery/rick-sanchez-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Ryuk",
+        "description": "*Death Note (2006)*"
+      },
+      "images": {
+        "768": "images/gallery/ryuk-768.webp",
+        "576": "images/gallery/ryuk-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Tristeza",
+        "description": "*Divertida-Mente (2015)*"
+      },
+      "images": {
+        "768": "images/gallery/sadness-768.webp",
+        "576": "images/gallery/sadness-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Sally",
+        "description": "*O Estranho Mundo de Jack (1993)*"
+      },
+      "images": {
+        "768": "images/gallery/sally-768.webp",
+        "576": "images/gallery/sally-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Salsicha",
+        "description": "*Scooby-Doo, Cadê Você? (1969)*"
+      },
+      "images": {
+        "768": "images/gallery/shaggy-768.webp",
+        "576": "images/gallery/shaggy-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Soneca",
+        "description": "*Branca de Neve e os Sete Anões (1938)*"
+      },
+      "images": {
+        "768": "images/gallery/sleepy-768.webp",
+        "576": "images/gallery/sleepy-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Sloth",
+        "description": "*Os Goonies (1985)*"
+      },
+      "images": {
+        "768": "images/gallery/sloth-768.webp",
+        "576": "images/gallery/sloth-576.webp"
+      }
+    },
+    {
+      "caption": "Sonic",
+      "images": {
+        "768": "images/gallery/sonic-768.webp",
+        "576": "images/gallery/sonic-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Bob Esponja",
+        "description": "*Bob Esponja Calça Quadrada (1999)*"
+      },
+      "images": {
+        "768": "images/gallery/spongebob-768.webp",
+        "576": "images/gallery/spongebob-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Thanos",
+        "description": "*Iron Man #55 (1968)*"
+      },
+      "images": {
+        "768": "images/gallery/thanos-768.webp",
+        "576": "images/gallery/thanos-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Chapeleiro Louco",
+        "description": "*Alice no País das Maravilhas (1951)*"
+      },
+      "images": {
+        "768": "images/gallery/the-mad-hatter-768.webp",
+        "576": "images/gallery/the-mad-hatter-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Tintin",
+        "description": "*As Aventuras de Tintin (1991)*"
+      },
+      "images": {
+        "768": "images/gallery/tintin-768.webp",
+        "576": "images/gallery/tintin-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Tom",
+        "description": "*Tom & Jerry (1940)*"
+      },
+      "images": {
+        "768": "images/gallery/tom-768.webp",
+        "576": "images/gallery/tom-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Venom",
+        "description": "*The Amazing Spider-Man #299 (1988)*"
+      },
+      "images": {
+        "768": "images/gallery/venom-768.webp",
+        "576": "images/gallery/venom-576.webp"
+      }
+    },
+    {
+      "caption": {
+       "title": "Ursinho Pooh",
+        "description": "*Winnie-the-Pooh (1925)*"
+      },
+      "images": {
+        "768": "images/gallery/winnie-the-pooh-768.webp",
+        "576": "images/gallery/winnie-the-pooh-576.webp"
+      }
+    }
+  ]
+}

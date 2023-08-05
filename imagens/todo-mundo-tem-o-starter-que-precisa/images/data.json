@@ -1,0 +1,108 @@
+{
+  "settings": {
+    "name": "Todo mundo tem o starter que Precisa",
+    "captions": true,
+    "credits": "© [Ry-Spirit](https://www.deviantart.com/ry-spirit)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "title": "Link e os Cucos",
+        "description": "*The Legend of Zelda*"
+      },
+      "images": {
+        "768": "images/gallery/link-cuccos-768.webp",
+        "576": "images/gallery/link-cuccos-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Charmander, Squirtle, Bulbasaur e Red",
+        "description": "*Pokémon (Kanto)*"
+      },
+      "images": {
+        "768": "images/gallery/pokemon-kanto-768.webp",
+        "576": "images/gallery/pokemon-kanto-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Whisper, Komasan, Jibanyan e Nathan Adams",
+        "description": "*Yokai Watch*"
+      },
+      "images": {
+        "768": "images/gallery/yokai-watch-768.webp",
+        "576": "images/gallery/yokai-watch-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Torchic, Mudkip, Treecko e Brendan",
+        "description": "*Pokémon (Hoenn)*"
+      },
+      "images": {
+        "768": "images/gallery/pokemon-hoenn-768.webp",
+        "576": "images/gallery/pokemon-hoenn-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Feiticeira Negra, Mago Negro, Kuriboh e Yugi",
+        "description": "*Yu-Gi-Oh*"
+      },
+      "images": {
+        "768": "images/gallery/yugioh-yugi-768.webp",
+        "576": "images/gallery/yugioh-yugi-576.webp"
+      }
+    },
+    {
+      "caption": "Fantastic Animals",
+      "images": {
+        "768": "images/gallery/fantastic-animals-768.webp",
+        "576": "images/gallery/fantastic-animals-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Time Wizard, Baby Dragon,<br />Red-Eyes Black Dragon<br class=\"d-inline-block d-sm-none\" />e Joey Wheeler",
+        "description": "*Yu-Gi-Oh*"
+      },
+      "images": {
+        "768": "images/gallery/yugioh-joey-768.webp",
+        "576": "images/gallery/yugioh-joey-768.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Cyndaquil, Totodile, Chikorita e Ethan",
+        "description": "*Pokémon (Johto)*"
+      },
+      "images": {
+        "768": "images/gallery/pokemon-johto-768.webp",
+        "576": "images/gallery/pokemon-johto-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Bonnie, Chica, Freddy Fazbear e Mike Schmidt",
+        "description": "*Five Nights at Freddy's*"
+      },
+      "images": {
+        "768": "images/gallery/five-nights-at-freddys-768.webp",
+        "576": "images/gallery/five-nights-at-freddys-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Patamon, Biyomon, Agumon e Tai",
+        "description": "*Digimon*"
+      },
+      "images": {
+        "768": "images/gallery/digimon-768.webp",
+        "576": "images/gallery/digimon-576.webp"
+      }
+    }
+  ]
+}

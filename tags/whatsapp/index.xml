@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WhatsApp on Vish!</title><link>https://www.vish.blog.br/tags/whatsapp/</link><description>Recent content in WhatsApp on Vish!</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><atom:link href="https://www.vish.blog.br/tags/whatsapp/index.xml" rel="self" type="application/rss+xml"/><item><title>Mensagem pra Você #1</title><link>https://www.vish.blog.br/imagens/mensagem-pra-voce-1/</link><pubDate>Tue, 01 Mar 2022 15:00:00 -0300</pubDate><guid>https://www.vish.blog.br/imagens/mensagem-pra-voce-1/</guid><description>&lt;div id="embed-8c115b5c5667b73978230bc2d2b688dd315aeab3"
+class="embed2 image d-flex mb-3 flex-column flex-lg-row">
+&lt;div class="wrapper">
+&lt;a href="https://www.vish.blog.br/imagens/mensagem-pra-voce-1/images/cover.webp"
+target="_blank"
+data-sizes='100vw' data-srcset='https://www.vish.blog.br/imagens/mensagem-pra-voce-1/images/cover.webp 1x'>
+&lt;img src="https://www.vish.blog.br/imagens/mensagem-pra-voce-1/images/cover.webp"
+class="rounded borders"
+alt="Mensagem pra Você #1"
+title="Mensagem pra Você #1"
+height="627" width="1200"
+srcset="https://www.vish.blog.br/imagens/mensagem-pra-voce-1/images/cover.webp 1x"
+sizes="100vw"
+loading="lazy" fetchpriority="low" />
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;style>
+.gslide-media.gslide-image img { border-radius: .25rem; }
+.gprev.disabled, .gnext.disabled { display: none; }
+.gslide-media.gslide-image ~ .gslide-description {
+background: transparent !important;
+text-align: center;
+}
+.gslide-media.gslide-image ~ .gslide-description .gdesc-inner {
+margin-top: 1rem;
+padding: 0 !important;
+}
+.gslide-media.gslide-image ~ .gslide-description .gslide-desc a:hover {
+text-decoration: underline dotted rgba( var( --shiro ) );
+}
+.gslide-media.gslide-image ~ .gslide-description.description-bottom .gslide-title,
+.gslide-media.gslide-image ~ .gslide-description.description-bottom .gslide-desc {
+color: rgba( var( --shiro ) );
+font-family: "Quicksand", Arial, sans-serif;
+}
+.gslide-media.gslide-image ~ .gslide-description.description-bottom .gslide-title {
+font-weight: bold;
+margin-bottom: 0;
+}
+@media ( min-width: 409.98px ) and ( max-width: 575.98px ) {
+.ginner-container { width: 100% !important; }
+}
+@media ( min-width: 576px ) and ( max-width: 767.98px ) {
+.ginner-container { width: 100% !important; }
+}
+@media ( min-width: 768px ) and ( max-width: 991.98px ) {
+.ginner-container { width: 70% !important; }
+}
+@media ( min-width: 992px ) and ( max-width: 1199.98px ) {
+.ginner-container { width: 65% !important; }
+}
+@media ( min-width: 1200px ) and ( max-width: 1439.98px ) {
+.ginner-container { width: 55% !important; }
+}
+&lt;/style></description></item></channel></rss>

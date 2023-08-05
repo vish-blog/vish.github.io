@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "name": "A Vida de um Pokémon",
+    "captions": false
+  },
+
+  "gallery": [
+
+    {
+      "cover": true,
+      "images": {
+        "1x": "images/gallery/1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/4.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/5.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/6.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/7.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/8.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/9.webp"
+      }
+    }
+  ]
+}

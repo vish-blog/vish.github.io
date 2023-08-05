@@ -1,0 +1,167 @@
+{
+  "settings": {
+    "name": "E se Tim Burton dirigisse Os Vingadores?",
+    "captions": true,
+    "credits": "© [Milan Jaram](https://www.instagram.com/milanjaram/)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "title": "Hulk"
+      },
+      "images": {
+        "768": "images/gallery/hulk-768.webp",
+        "576": "images/gallery/hulk-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Capitão América"
+      },
+      "images": {
+        "768": "images/gallery/captain-america-768.webp",
+        "576": "images/gallery/captain-america-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Spider-Man"
+      },
+      "images": {
+        "768": "images/gallery/spiderman-1-768.webp",
+        "576": "images/gallery/spiderman-1-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Spider-Man",
+        "description": " como *Iron Spider*"
+      },
+      "images": {
+        "768": "images/gallery/spiderman-2-768.webp",
+        "576": "images/gallery/spiderman-2-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Thor"
+      },
+      "images": {
+        "768": "images/gallery/thor-768.webp",
+        "576": "images/gallery/thor-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Mulher Maravilha",
+        "description": "Quê?! o.O"
+      },
+      "images": {
+        "768": "images/gallery/wonder-woman-768.webp",
+        "576": "images/gallery/wonder-woman-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Rocket Raccoon"
+      },
+      "images": {
+        "768": "images/gallery/rocket-raccoon-768.webp",
+        "576": "images/gallery/rocket-raccoon-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Groot"
+      },
+      "images": {
+        "768": "images/gallery/groot-768.webp",
+        "576": "images/gallery/groot-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Starlord",
+        "description": "\"Senhor das Estrelas\" é muito esquisito :Þ"
+      },
+      "images": {
+        "768": "images/gallery/starlord-768.webp",
+        "576": "images/gallery/starlord-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Loki"
+      },
+      "images": {
+        "768": "images/gallery/loki-768.webp",
+        "576": "images/gallery/loki-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Homen de Ferro"
+      },
+      "images": {
+        "768": "images/gallery/iron-man-768.webp",
+        "576": "images/gallery/iron-man-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Pantera Negra"
+      },
+      "images": {
+        "768": "images/gallery/black-panther-768.webp",
+        "576": "images/gallery/black-panther-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Gamora"
+      },
+      "images": {
+        "768": "images/gallery/gamora-768.webp",
+        "576": "images/gallery/gamora-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Drax, o Destruidor"
+      },
+      "images": {
+        "768": "images/gallery/drax-768.webp",
+        "576": "images/gallery/drax-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Doutor Estranho"
+      },
+      "images": {
+        "768": "images/gallery/doctor-strange-768.webp",
+        "576": "images/gallery/doctor-strange-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Gavião Arqueiro"
+      },
+      "images": {
+        "768": "images/gallery/hawkeye-768.webp",
+        "576": "images/gallery/hawkeye-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Capitã Marvel"
+      },
+      "images": {
+        "768": "images/gallery/captain-marvel-768.webp",
+        "576": "images/gallery/captain-marvel-576.webp"
+      }
+    }
+  ]
+}

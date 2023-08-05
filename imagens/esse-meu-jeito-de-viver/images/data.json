@@ -1,0 +1,342 @@
+{
+  "settings": {
+    "name": "Esse Meu Jeito de Viver",
+    "credits": "[Linda Bouderbala](https://www.instagram.com/linda_bouderbala/)",
+    "captions": true,
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "description": "Princesa de Fogo com seu **Growlithe**<br />*Hora de Aventura* (2010)"
+      },
+      "images": {
+        "992": "images/gallery/1-992.webp",
+        "768": "images/gallery/1-768.webp",
+        "576": "images/gallery/1-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Gelado com seu **Glaceon**<br />*Os Incríveis* (2004)"
+      },
+      "images": {
+        "992": "images/gallery/2-992.webp",
+        "768": "images/gallery/2-768.webp",
+        "576": "images/gallery/2-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mulher Gato com seus **Glameow** (esquerda), **Meowth** (direita) e **Purloin** (com ela)<br />*Batman* (1939 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/3-992.webp",
+        "768": "images/gallery/3-768.webp",
+        "576": "images/gallery/3-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Raiden com seu **Pikachu**<br />*Mortal Kombat* (1992 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/4-992.webp",
+        "768": "images/gallery/4-768.webp",
+        "576": "images/gallery/4-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Hera Venenosa com seu **Bulbassauro**<br />*Batman* (1939 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/5-992.webp",
+        "768": "images/gallery/5-768.webp",
+        "576": "images/gallery/5-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Naruto com seu **Vulpix**<br />*Naruto* (1999)<br /><small>Embora quem tem nove caudas como a *Kyubii* seja sua evolução, *Ninetails*</small>"
+      },
+      "images": {
+        "992": "images/gallery/6-992.webp",
+        "768": "images/gallery/6-768.webp",
+        "576": "images/gallery/6-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Katara com seu **Squirtle**<br />*Avatar: A Lenda de Aang* (2005)"
+      },
+      "images": {
+        "992": "images/gallery/7-992.webp",
+        "768": "images/gallery/7-768.webp",
+        "576": "images/gallery/7-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mística com seu **Ditto**<br />*X-Men* (1963 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/8-992.webp",
+        "768": "images/gallery/8-768.webp",
+        "576": "images/gallery/8-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Urbosa, Líder dos Gerudos com o Lendário **Zapdos**<br />*The Legend of Zelda* (1986 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/9-992.webp",
+        "768": "images/gallery/9-768.webp",
+        "576": "images/gallery/9-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Groot com sua **Chikorita**<br />*Guardiões da Galáxia* (1990)"
+      },
+      "images": {
+        "992": "images/gallery/10-992.webp",
+        "768": "images/gallery/10-768.webp",
+        "576": "images/gallery/10-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Espantalho com seu **Koffing**<br />*Batman* (1939 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/11-992.webp",
+        "768": "images/gallery/11-768.webp",
+        "576": "images/gallery/11-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Sailor Mars com seu **Flareon**<br />*Sailor Moon* (1992)"
+      },
+      "images": {
+        "992": "images/gallery/12-992.webp",
+        "768": "images/gallery/12-768.webp",
+        "576": "images/gallery/12-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mr. Freeze com seu **Alolan Sandshrew**<br />*Batman* (1939 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/13-992.webp",
+        "768": "images/gallery/13-768.webp",
+        "576": "images/gallery/13-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Itachi com seus muitos **Murkrow**<br />*Naruto* (1999)"
+      },
+      "images": {
+        "992": "images/gallery/14-992.webp",
+        "768": "images/gallery/14-768.webp",
+        "576": "images/gallery/14-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mera com seu **Vaporeon**<br />*Aquaman* (1962)"
+      },
+      "images": {
+        "992": "images/gallery/15-992.webp",
+        "768": "images/gallery/15-768.webp",
+        "576": "images/gallery/15-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Elsa e o Lendário **Articuno**<br />*Frozen* (2014)"
+      },
+      "images": {
+        "992": "images/gallery/16-992.webp",
+        "768": "images/gallery/16-768.webp",
+        "576": "images/gallery/16-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Haku com seu **Magikarp**<br />*A Viagem de Chihiro* (2003)<br /><small>Talvez por causa do [celacantos](https://pt.wikipedia.org/wiki/Celacanto) que os pais comem ¯\\\\_(ツ)_/¯</small>"
+      },
+      "images": {
+        "992": "images/gallery/17-992.webp",
+        "768": "images/gallery/17-768.webp",
+        "576": "images/gallery/17-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Batman com seus muitos **Zubat**<br />*Batman* (1939 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/18-992.webp",
+        "768": "images/gallery/18-768.webp",
+        "576": "images/gallery/18-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "O Coisa com seu **Geodude**<br />*Quarteto Fantástico* (1961)"
+      },
+      "images": {
+        "992": "images/gallery/19-992.webp",
+        "768": "images/gallery/19-768.webp",
+        "576": "images/gallery/19-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Estelar com seu **Torchic**<br />*Jovens Titãs* (1964)<br /><small>O fogo é parte do cabelo da Estelar. Pára de pensar besteira :Þ</small>"
+      },
+      "images": {
+        "992": "images/gallery/20-992.webp",
+        "768": "images/gallery/20-768.webp",
+        "576": "images/gallery/20-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Jack Frost com seu **Sneasel**<br />*A Origem dos Guardiões* (2012)"
+      },
+      "images": {
+        "992": "images/gallery/21-992.webp",
+        "768": "images/gallery/21-768.webp",
+        "576": "images/gallery/21-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Cell com seu **Scyther**<br />*Dragon Ball* (1989 — ∞)"
+      },
+      "images": {
+        "992": "images/gallery/22-992.webp",
+        "768": "images/gallery/22-768.webp",
+        "576": "images/gallery/22-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mestre Splinter com seu **Turtwig**<br />*As Tartarugas Ninjas* (1984)"
+      },
+      "images": {
+        "992": "images/gallery/23-992.webp",
+        "768": "images/gallery/23-768.webp",
+        "576": "images/gallery/23-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Capitão Planeta com seu **Eevee**<br />*Capitão Planeta* (1990)"
+      },
+      "images": {
+        "992": "images/gallery/24-992.webp",
+        "768": "images/gallery/24-768.webp",
+        "576": "images/gallery/24-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Thor com seu **Jolteon**<br />Journey into Mystery (1962)"
+      },
+      "images": {
+        "992": "images/gallery/25-992.webp",
+        "768": "images/gallery/25-768.webp",
+        "576": "images/gallery/25-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Daenerys Targaryan com seus **Charizard** (esquerda),<br class=\"d-none d-md-block\" />**Salamence** (direita) e o Lendário **Rayquaza** (acima)<br />*Game of Thrones* (2011)<br /><small>Mesmo que o Charizard não seja, de fato, um Dragão</small>"
+      },
+      "images": {
+        "992": "images/gallery/26-992.webp",
+        "768": "images/gallery/26-768.webp",
+        "576": "images/gallery/26-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Marinette Dupain-Cheng a.k.a. Ladybug com seu **Ledyba**<br />*Miraculous: As Aventuras de Ladybug* (2015)"
+      },
+      "images": {
+        "992": "images/gallery/27-992.webp",
+        "768": "images/gallery/27-768.webp",
+        "576": "images/gallery/27-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Toph com seu **Rhyhorn**<br />*Avatar: A Lenda de Aang* (2005)"
+      },
+      "images": {
+        "992": "images/gallery/28-992.webp",
+        "768": "images/gallery/28-768.webp",
+        "576": "images/gallery/28-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Edward Elric com seu **Aron**<br />*Fullmetal Alchemist* (2001 / 2009)"
+      },
+      "images": {
+        "992": "images/gallery/29-992.webp",
+        "768": "images/gallery/29-768.webp",
+        "576": "images/gallery/29-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Ibara Shiozaki com sua **Roselia**<br />*Boku no Hero Academia* (2014)"
+      },
+      "images": {
+        "992": "images/gallery/30-992.webp",
+        "768": "images/gallery/30-768.webp",
+        "576": "images/gallery/30-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Hisoka Morow com seu **Mime Jr.**<br />*Hunter × Hunter* (1999)"
+      },
+      "images": {
+        "992": "images/gallery/31-992.webp",
+        "768": "images/gallery/31-768.webp",
+        "576": "images/gallery/31-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mermista com seu **Feebas**<br />*She-Ra e as Princesas do Poder* (2018)<br /><small>Nos tanques ao fundo tem um **Barboach**, dois **Finneon**, um **Lumineon** e, possivelmente, um **Remoraid**</small>"
+      },
+      "images": {
+        "992": "images/gallery/32-992.webp",
+        "768": "images/gallery/32-768.webp",
+        "576": "images/gallery/32-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Zangief com seu **Machop**<br />*Street Fighter II* (1991)"
+      },
+      "images": {
+        "992": "images/gallery/33-992.webp",
+        "768": "images/gallery/33-768.webp",
+        "576": "images/gallery/33-576.webp"
+      }
+    }
+  ]
+}

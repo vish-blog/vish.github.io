@@ -1,0 +1,154 @@
+{
+  "settings": {
+    "name": "Espelho, Espelho Meu",
+    "captions": true,
+    "credits": "© [Rocío Conches](https://www.instagram.com/rconches00/)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "title": "Anna",
+        "description": "*Frozen* (2013)"
+      },
+      "images": {
+        "992": "images/gallery/anna-992.webp",
+        "768": "images/gallery/anna-768.webp",
+        "576": "images/gallery/anna-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Ariel",
+        "description": "*A Pequena Sereia* (1989)"
+      },
+      "images": {
+        "992": "images/gallery/ariel-992.webp",
+        "768": "images/gallery/ariel-768.webp",
+        "576": "images/gallery/ariel-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Aurora",
+        "description": "*A Bela Adormecida* (1959)"
+      },
+      "images": {
+        "992": "images/gallery/aurora-992.webp",
+        "768": "images/gallery/aurora-768.webp",
+        "576": "images/gallery/aurora-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Bela",
+        "description": "*A Bela e a Fera* (1991)"
+      },
+      "images": {
+        "992": "images/gallery/belle-992.webp",
+        "768": "images/gallery/belle-768.webp",
+        "576": "images/gallery/belle-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Concerella",
+        "description": "*Cinderalla* (1950)"
+      },
+      "images": {
+        "992": "images/gallery/cinderella-992.webp",
+        "768": "images/gallery/cinderella-768.webp",
+        "576": "images/gallery/cinderella-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Elsa",
+        "description": "*Frozen* (2013)"
+      },
+      "images": {
+        "992": "images/gallery/elsa-992.webp",
+        "768": "images/gallery/elsa-768.webp",
+        "576": "images/gallery/elsa-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Merida",
+        "description": "*Valente* (2012)"
+      },
+      "images": {
+        "992": "images/gallery/merida-992.webp",
+        "768": "images/gallery/merida-768.webp",
+        "576": "images/gallery/merida-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Moana",
+        "description": "*Moana* (2016)"
+      },
+      "images": {
+        "992": "images/gallery/moana-992.webp",
+        "768": "images/gallery/moana-768.webp",
+        "576": "images/gallery/moana-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Mulan",
+        "description": "*Mulan* (1998)"
+      },
+      "images": {
+        "992": "images/gallery/mulan-992.webp",
+        "768": "images/gallery/mulan-768.webp",
+        "576": "images/gallery/mulan-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Pocahontas",
+        "description": "*Pocahontas* (1995)"
+      },
+      "images": {
+        "992": "images/gallery/pocahontas-992.webp",
+        "768": "images/gallery/pocahontas-768.webp",
+        "576": "images/gallery/pocahontas-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Rapunzel",
+        "description": "*Enrolados* (2010)"
+      },
+      "images": {
+        "992": "images/gallery/rapunzel-992.webp",
+        "768": "images/gallery/rapunzel-768.webp",
+        "576": "images/gallery/rapunzel-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Branca de Neve",
+        "description": "*Branca de Neve e os Sete Anões* (1937)"
+      },
+      "images": {
+        "992": "images/gallery/snow-white-992.webp",
+        "768": "images/gallery/snow-white-768.webp",
+        "576": "images/gallery/snow-white-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Tiana",
+        "description": "*A Princesa e o Sapo* (2009)"
+      },
+      "images": {
+        "992": "images/gallery/tiana-992.webp",
+        "768": "images/gallery/tiana-768.webp",
+        "576": "images/gallery/tiana-576.webp"
+      }
+    }
+  ]
+}

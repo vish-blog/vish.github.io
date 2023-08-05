@@ -1,0 +1,273 @@
+{
+  "settings": {
+    "name": "Super Terceira Idade",
+    "captions": true,
+    "credits": "© [Lesya Guseva](https://www.instagram.com/_lesya_guseva_/)",
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "description": "Mario & Peach (e Bowser)"
+      },
+      "images": {
+        "768": "images/gallery/1-768.webp",
+        "576": "images/gallery/1-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mickey & Minnie"
+      },
+      "images": {
+        "768": "images/gallery/2-768.webp",
+        "576": "images/gallery/2-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Tony Stark"
+      },
+      "images": {
+        "768": "images/gallery/3-768.webp",
+        "576": "images/gallery/3-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Superman, Pocahontas & Meeko"
+      },
+      "images": {
+        "768": "images/gallery/4-768.webp",
+        "576": "images/gallery/4-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "A Pequena Sereia, Sebastião e Linguado"
+      },
+      "images": {
+        "768": "images/gallery/5-768.webp",
+        "576": "images/gallery/5-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Deadpool"
+      },
+      "images": {
+        "768": "images/gallery/6-768.webp",
+        "576": "images/gallery/6-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Supergirl & Mulher Maravilha"
+      },
+      "images": {
+        "768": "images/gallery/7-768.webp",
+        "576": "images/gallery/7-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Gênio & Dr. Estranho"
+      },
+      "images": {
+        "768": "images/gallery/8-768.webp",
+        "576": "images/gallery/8-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Lara Croft"
+      },
+      "images": {
+        "768": "images/gallery/9-768.webp",
+        "576": "images/gallery/9-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Bela & A Fera e Jasmine & Rajah"
+      },
+      "images": {
+        "768": "images/gallery/10-768.webp",
+        "576": "images/gallery/10-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Aquaman<br /><small>(e, talvez, Daenerys Targaryen)</small>"
+      },
+      "images": {
+        "768": "images/gallery/11-768.webp",
+        "576": "images/gallery/11-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Branca de Neve & Capitão América"
+      },
+      "images": {
+        "768": "images/gallery/12-768.webp",
+        "576": "images/gallery/12-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Flash"
+      },
+      "images": {
+        "768": "images/gallery/13-768.webp",
+        "576": "images/gallery/13-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Rapunzel & Pascal"
+      },
+      "images": {
+        "768": "images/gallery/14-768.webp",
+        "576": "images/gallery/14-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Princesa Leia & Aladdin"
+      },
+      "images": {
+        "768": "images/gallery/15-768.webp",
+        "576": "images/gallery/15-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Capitão Jack Sparrow"
+      },
+      "images": {
+        "768": "images/gallery/16-768.webp",
+        "576": "images/gallery/16-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Cinderella"
+      },
+      "images": {
+        "768": "images/gallery/17-768.webp",
+        "576": "images/gallery/17-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Spider-Man"
+      },
+      "images": {
+        "768": "images/gallery/18-768.webp",
+        "576": "images/gallery/18-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Thor"
+      },
+      "images": {
+        "768": "images/gallery/19-768.webp",
+        "576": "images/gallery/19-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Loki, Viúva Negra e Hulk"
+      },
+      "images": {
+        "768": "images/gallery/20-768.webp",
+        "576": "images/gallery/20-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Logan/Wolverine"
+      },
+      "images": {
+        "768": "images/gallery/21-768.webp",
+        "576": "images/gallery/21-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Harry Potter"
+      },
+      "images": {
+        "768": "images/gallery/22-768.webp",
+        "576": "images/gallery/22-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Batman"
+      },
+      "images": {
+        "768": "images/gallery/23-768.webp",
+        "576": "images/gallery/23-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Coringa"
+      },
+      "images": {
+        "768": "images/gallery/24-768.webp",
+        "576": "images/gallery/24-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Harley Quinn"
+      },
+      "images": {
+        "768": "images/gallery/25-768.webp",
+        "576": "images/gallery/25-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mulher Gato"
+      },
+      "images": {
+        "768": "images/gallery/26-768.webp",
+        "576": "images/gallery/26-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mulher Gato<br /><small>(de novo)</small>"
+      },
+      "images": {
+        "768": "images/gallery/27-768.webp",
+        "576": "images/gallery/27-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mulher Gato<br /><small>(outra vez)</small>"
+      },
+      "images": {
+        "768": "images/gallery/28-768.webp",
+        "576": "images/gallery/28-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Cinderella, Thor e Mulher Gato<br /><small>(a artista nem gosta da Mulher Gato, hein?)</small>"
+      },
+      "images": {
+        "768": "images/gallery/29-768.webp",
+        "576": "images/gallery/29-576.webp"
+      }
+    }
+  ]
+}

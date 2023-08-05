@@ -1,0 +1,462 @@
+{
+  "settings": {
+    "name": "Países Vilões",
+    "captions": true,
+    "credits": "© [Lucas Freitas](https://www.tiktok.com/@ailoubfreitas)",
+    "style": "width: 50%"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "description": "Argentina"
+      },
+      "images": {
+        "768": "images/gallery/argentina-768.webp",
+        "576": "images/gallery/argentina-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Austrália"
+      },
+      "images": {
+        "768": "images/gallery/australia-768.webp",
+        "576": "images/gallery/australia-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Brasil"
+      },
+      "images": {
+        "768": "images/gallery/brazil-768.webp",
+        "576": "images/gallery/brazil-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Canadá"
+      },
+      "images": {
+        "768": "images/gallery/canada-768.webp",
+        "576": "images/gallery/canada-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Chile"
+      },
+      "images": {
+        "768": "images/gallery/chile-768.webp",
+        "576": "images/gallery/chile-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "China"
+      },
+      "images": {
+        "768": "images/gallery/china-768.webp",
+        "576": "images/gallery/china-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Colômbia"
+      },
+      "images": {
+        "768": "images/gallery/colombia-768.webp",
+        "576": "images/gallery/colombia-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Costa Rica"
+      },
+      "images": {
+        "768": "images/gallery/costa-rica-768.webp",
+        "576": "images/gallery/costa-rica-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Dinamarca"
+      },
+      "images": {
+        "768": "images/gallery/denmark-768.webp",
+        "576": "images/gallery/denmark-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Equador"
+      },
+      "images": {
+        "768": "images/gallery/ecuador-768.webp",
+        "576": "images/gallery/ecuador-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Egito"
+      },
+      "images": {
+        "768": "images/gallery/egypt-768.webp",
+        "576": "images/gallery/egypt-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Inglaterra"
+      },
+      "images": {
+        "768": "images/gallery/england-768.webp",
+        "576": "images/gallery/england-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Finlândia"
+      },
+      "images": {
+        "768": "images/gallery/finland-768.webp",
+        "576": "images/gallery/finland-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "França"
+      },
+      "images": {
+        "768": "images/gallery/france-768.webp",
+        "576": "images/gallery/france-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Alemanha"
+      },
+      "images": {
+        "768": "images/gallery/germany-768.webp",
+        "576": "images/gallery/germany-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Grécia"
+      },
+      "images": {
+        "768": "images/gallery/greece-768.webp",
+        "576": "images/gallery/greece-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Groenlândia"
+      },
+      "images": {
+        "768": "images/gallery/greenland-768.webp",
+        "576": "images/gallery/greenland-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Guatemala"
+      },
+      "images": {
+        "768": "images/gallery/guatemala-768.webp",
+        "576": "images/gallery/guatemala-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Islândia"
+      },
+      "images": {
+        "768": "images/gallery/iceland-768.webp",
+        "576": "images/gallery/iceland-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Índia"
+      },
+      "images": {
+        "768": "images/gallery/india-768.webp",
+        "576": "images/gallery/india-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Irlanda"
+      },
+      "images": {
+        "768": "images/gallery/ireland-768.webp",
+        "576": "images/gallery/ireland-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Itália"
+      },
+      "images": {
+        "768": "images/gallery/italy-768.webp",
+        "576": "images/gallery/italy-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Jamaica"
+      },
+      "images": {
+        "768": "images/gallery/jamaica-768.webp",
+        "576": "images/gallery/jamaica-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Japão"
+      },
+      "images": {
+        "768": "images/gallery/japan-768.webp",
+        "576": "images/gallery/japan-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Madagascar"
+      },
+      "images": {
+        "768": "images/gallery/madagascar-768.webp",
+        "576": "images/gallery/madagascar-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "México"
+      },
+      "images": {
+        "768": "images/gallery/mexico-768.webp",
+        "576": "images/gallery/mexico-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Nepal"
+      },
+      "images": {
+        "768": "images/gallery/nepal-768.webp",
+        "576": "images/gallery/nepal-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Países Baixos"
+      },
+      "images": {
+        "768": "images/gallery/netherlands-768.webp",
+        "576": "images/gallery/netherlands-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Nova Zelândia"
+      },
+      "images": {
+        "768": "images/gallery/new-zealand-768.webp",
+        "576": "images/gallery/new-zealand-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Nigéria"
+      },
+      "images": {
+        "768": "images/gallery/nigeria-768.webp",
+        "576": "images/gallery/nigeria-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Coréia do Norte"
+      },
+      "images": {
+        "768": "images/gallery/north-korea-768.webp",
+        "576": "images/gallery/north-korea-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Noruega"
+      },
+      "images": {
+        "768": "images/gallery/norway-768.webp",
+        "576": "images/gallery/norway-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Peru"
+      },
+      "images": {
+        "768": "images/gallery/peru-768.webp",
+        "576": "images/gallery/peru-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Polônia"
+      },
+      "images": {
+        "768": "images/gallery/poland-768.webp",
+        "576": "images/gallery/poland-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Portugal"
+      },
+      "images": {
+        "768": "images/gallery/portugal-768.webp",
+        "576": "images/gallery/portugal-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Estado do Catar"
+      },
+      "images": {
+        "768": "images/gallery/qatar-768.webp",
+        "576": "images/gallery/qatar-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Romênia"
+      },
+      "images": {
+        "768": "images/gallery/romania-768.webp",
+        "576": "images/gallery/romania-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Rússia"
+      },
+      "images": {
+        "768": "images/gallery/russia-768.webp",
+        "576": "images/gallery/russia-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Arábia Saudita"
+      },
+      "images": {
+        "768": "images/gallery/saudi-arabia-768.webp",
+        "576": "images/gallery/saudi-arabia-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Escócia"
+      },
+      "images": {
+        "768": "images/gallery/scotland-768.webp",
+        "576": "images/gallery/scotland-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "África do Sul"
+      },
+      "images": {
+        "768": "images/gallery/south-africa-768.webp",
+        "576": "images/gallery/south-africa-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Espanha"
+      },
+      "images": {
+        "768": "images/gallery/spain-768.webp",
+        "576": "images/gallery/spain-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Suécia"
+      },
+      "images": {
+        "768": "images/gallery/sweden-768.webp",
+        "576": "images/gallery/sweden-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Tailândia"
+      },
+      "images": {
+        "768": "images/gallery/thailandia-768.webp",
+        "576": "images/gallery/thailandia-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Turquia"
+      },
+      "images": {
+        "768": "images/gallery/turkey-768.webp",
+        "576": "images/gallery/turkey-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Ucrânia"
+      },
+      "images": {
+        "768": "images/gallery/ukraine-768.webp",
+        "576": "images/gallery/ukraine-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Reino Unido"
+      },
+      "images": {
+        "768": "images/gallery/united-kingdom-768.webp",
+        "576": "images/gallery/united-kingdom-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Estados Unidos da América"
+      },
+      "images": {
+        "768": "images/gallery/usa-768.webp",
+        "576": "images/gallery/usa-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "País de Gales"
+      },
+      "images": {
+        "768": "images/gallery/wales-768.webp",
+        "576": "images/gallery/wales-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "República do Iémen"
+      },
+      "images": {
+        "768": "images/gallery/yemen-768.webp",
+        "576": "images/gallery/yemen-576.webp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "settings": {
+    "name": "Bebês Velhinhos",
+    "captions": false
+  },
+
+  "gallery": [
+
+    {
+      "cover": true,
+      "images": {
+        "1x": "images/gallery/1.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/2.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/3.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/4.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/5.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/6.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/7.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/8.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/9.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/10.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/11.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/12.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/13.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/14.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/15.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/16.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/17.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/18.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/19.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/20.webp"
+      }
+    }
+  ]
+}

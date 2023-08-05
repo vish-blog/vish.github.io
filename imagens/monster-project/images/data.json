@@ -1,0 +1,804 @@
+{
+  "settings": {
+    "name": "Monster Project",
+    "captions": true,
+    "credits": "© [The Monster Project](https://themonsterproject.org)"
+  },
+
+  "gallery": [
+    {
+      "images": {
+        "1x": "images/gallery/1a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [AJ Jefferies](http://moonjam3d.tumblr.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/1b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/2a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Aldo Crusher](http://aldocrusher.tumblr.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/2b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/3a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Milan Vasek](http://www.milanvasek.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/3b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/4a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Patrick Evrard](http://www.patrickevrard.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/4b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/5a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Cecy Meade](https://www.behance.net/cecymeade)"
+      },
+      "images": {
+        "1x": "images/gallery/5b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/6a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Chris Schofield](https://www.behance.net/chrisschofield)"
+      },
+      "images": {
+        "1x": "images/gallery/6b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/7a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Christi du Toit](https://www.behance.net/christidutoit)"
+      },
+      "images": {
+        "1x": "images/gallery/7b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/8a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Nick Sadek](http://sadekart.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/8b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/9a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Lenny Wen](https://www.behance.net/lenwen)"
+      },
+      "images": {
+        "1x": "images/gallery/9b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/10a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Lynn Chen](http://lynnchenart.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/10b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/11a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Martina Crepulja](https://www.behance.net/martinacrepulja)"
+      },
+      "images": {
+        "1x": "images/gallery/11b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/12a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [James Dies](http://www.instagram.com/silverlimit/)"
+      },
+      "images": {
+        "1x": "images/gallery/12b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/13a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Vince Ruz](https://www.behance.net/vinceruz)"
+      },
+      "images": {
+        "1x": "images/gallery/13b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/14a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Lorena Alvarez](http://www.lorenaalvarez.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/14b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/15a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Nicholas Staab](https://www.instagram.com/thenamesnick/)"
+      },
+      "images": {
+        "1x": "images/gallery/15b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/16a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Gediminas Pranckevicius](http://www.gedomenas.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/16b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/17a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Yaron Granot](http://yarongranotart.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/17b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/18a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [AKUT](http://www.herakut.de/)"
+      },
+      "images": {
+        "1x": "images/gallery/18b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/19a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Nuno Viegas](http://www.nunoviegas.pt/)"
+      },
+      "images": {
+        "1x": "images/gallery/19b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/20a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [A Squid Called Sebastian](http://asquidcalledsebastian.tumblr.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/20b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/21a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [The Stompin' Ground](https://www.behance.net/stompinground)"
+      },
+      "images": {
+        "1x": "images/gallery/21b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/22a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [AJ Jefferies](https://moonjam.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/22b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/23a.webp"
+      }
+    },
+    {
+      "cover": true,
+      "caption": {
+        "description": "Criado por [Chris Schofield](https://www.instagram.com/cschofield3d)"
+      },
+      "images": {
+        "1x": "images/gallery/23b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/24a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Thomas Burden](http://www.wearegrownup.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/24b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/25a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Ryogo Toyoda](http://rgtd.net/)"
+      },
+      "images": {
+        "1x": "images/gallery/25b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/26a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Anna Kulakovskaja](https://www.behance.net/kulakovskaja)"
+      },
+      "images": {
+        "1x": "images/gallery/26b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/27a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Chad Lewis](https://www.chadlewisart.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/27b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/28a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Lize-Marie Dreyer (Aurora Creative Studio)](https://www.behance.net/Lize-MarieDreyer)"
+      },
+      "images": {
+        "1x": "images/gallery/28b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/29a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Carlos Ortega Elizalde](https://carlosortega3d.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/29b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/30a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Peter Sandeman](https://www.instagram.com/petersandeman3d/)"
+      },
+      "images": {
+        "1x": "images/gallery/30b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/31a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Nick Hopkins](http://www.runkickshout.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/31b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/32a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Michel Verdu](https://www.behance.net/MichelVerdu)"
+      },
+      "images": {
+        "1x": "images/gallery/32b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/33a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Poy](https://www.instagram.com/poppy_betha/)"
+      },
+      "images": {
+        "1x": "images/gallery/33b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/34a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Konstantin Alekyan](http://alekyan.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/34b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/35a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Puffy Puff Puff](https://www.instagram.com/puffypuffpuff_/)"
+      },
+      "images": {
+        "1x": "images/gallery/35b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/36a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Aldo Crusher](https://www.behance.net/aldocrusher)"
+      },
+      "images": {
+        "1x": "images/gallery/36b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/37a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Franklin Lu](https://franklinlu01.wixsite.com/illustration)"
+      },
+      "images": {
+        "1x": "images/gallery/37b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/38a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Mora Vieytes](https://www.instagram.com/moravieytesillustration/)"
+      },
+      "images": {
+        "1x": "images/gallery/38b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/39a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Katie Johnson](http://www.katiemadethat.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/39b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/40a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Julio M. Ruiz](https://www.be.net/juliomartin)"
+      },
+      "images": {
+        "1x": "images/gallery/40b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/41a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Isa Falcó](https://www.artstation.com/isafalco)"
+      },
+      "images": {
+        "1x": "images/gallery/41b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/42a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Fabio Wasques](https://www.artstation.com/fabiowasques)"
+      },
+      "images": {
+        "1x": "images/gallery/42b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/43a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Erin Hunting](http://www.erinhunting.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/43b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/44a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Amar Chaurasia](https://www.behance.net/chaurasiaa7aed)"
+      },
+      "images": {
+        "1x": "images/gallery/44b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/45a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Ivan Sulima](https://www.behance.net/IvanSulima)"
+      },
+      "images": {
+        "1x": "images/gallery/45b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/46a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [AJ Jefferies](https://moonjam.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/46b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/47a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Mattey](https://www.instagram.com/matteyyy_/)"
+      },
+      "images": {
+        "1x": "images/gallery/47b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/48a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Nikolai Platonov](https://www.artstation.com/nikplatonov)"
+      },
+      "images": {
+        "1x": "images/gallery/48b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/49a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Horacio CG](https://www.instagram.com/hoc.dog/)"
+      },
+      "images": {
+        "1x": "images/gallery/49b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/50a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Miguel Guercio](https://www.behance.net/migguercio)"
+      },
+      "images": {
+        "1x": "images/gallery/50b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/51a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Carlos Ortega Elizalde](https://carlosortega3d.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/51b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/52a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [King-goo](https://www.king-goo.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/52b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/53a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Viv Campbell](http://www.vivcampbell.es/)"
+      },
+      "images": {
+        "1x": "images/gallery/53b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/54a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Stephanie Dewhirst](https://www.stephdawurst.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/54b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/55a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Eric Castleman](https://www.ericcastleman.com/)"
+      },
+      "images": {
+        "1x": "images/gallery/55b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/56a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Durcot](https://www.instagram.com/durcot_art/)"
+      },
+      "images": {
+        "1x": "images/gallery/56b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/57a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Rodrigo Wolff](https://www.artstation.com/rodrigowolff)"
+      },
+      "images": {
+        "1x": "images/gallery/57b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/58a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Roberto Fernández](https://www.instagram.com/doodles3d/)"
+      },
+      "images": {
+        "1x": "images/gallery/58b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/59a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Stacy Frantsek](https://www.behance.net/hokutonakatany)"
+      },
+      "images": {
+        "1x": "images/gallery/59b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/60a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Arief Putra](https://ariefputra.art/)"
+      },
+      "images": {
+        "1x": "images/gallery/60b.webp"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/61a.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Criado por [Maïa Zeidan](https://www.instagram.com/maiazeidan/)"
+      },
+      "images": {
+        "1x": "images/gallery/61b.webp"
+      }
+    }
+  ]
+}

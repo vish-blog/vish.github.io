@@ -1,0 +1,482 @@
+{
+  "settings": {
+    "name": "Mudança de Hábito",
+    "captions": true,
+    "credits": "© [Linda Bouderbala](https://www.instagram.com/linda_bouderbala/)",
+    "style": "width: 60%"
+  },
+
+  "gallery": [
+    {
+      "caption": {
+        "title": "Aladdin & Abu / Dora & Boots",
+        "description": "*Walt Disney Pictures / Dora, a Aventureira*"
+      },
+      "images": {
+        "768": "images/gallery/aladdin-abu-dora-boots-768.webp",
+        "576": "images/gallery/aladdin-abu-dora-boots-576.webp"
+      }
+    },
+    {
+      "cover": true,
+      "caption": {
+        "title": "Alice como Morpheus",
+        "description": "*Alice no País das Maravilhas / Matrix*"
+      },
+      "images": {
+        "768": "images/gallery/alice-morpheus-768.webp",
+        "576": "images/gallery/alice-morpheus-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Ash Ketchum & Pikachu / Lilo & Stitch",
+        "description": "*Pokémon / Walt Disney Pictures*"
+      },
+      "images": {
+        "768": "images/gallery/ash-ketchum-pikachu-lilo-stitch-768.webp",
+        "576": "images/gallery/ash-ketchum-pikachu-lilo-stitch-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Asterix & Thor",
+        "description": "*As Aventuras de Asterix / Marvel Comics*"
+      },
+      "images": {
+        "768": "images/gallery/asterix-thor-768.webp",
+        "576": "images/gallery/asterix-thor-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Bela & Princesa Daisy",
+        "description": "*A Bela e a Fera / Super Mario World*"
+      },
+      "images": {
+        "768": "images/gallery/belle-princess-daisy-768.webp",
+        "576": "images/gallery/belle-princess-daisy-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Billy, the Puppet & \"V\"",
+        "description": "*Jogos Mortais / V de Vingança*"
+      },
+      "images": {
+        "768": "images/gallery/billy-the-puppet-v-768.webp",
+        "576": "images/gallery/billy-the-puppet-v-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Capitão Haddock & Popeye",
+        "description": "*As Aventuras de Tintin / Popeye*"
+      },
+      "images": {
+        "768": "images/gallery/captain-haddock-popeye-768.webp",
+        "576": "images/gallery/captain-haddock-popeye-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Capitão Jack Sparrow & Napoleão Bonaparte",
+        "description": "*Piratas do Caribe / Personalidade Histórica*"
+      },
+      "images": {
+        "768": "images/gallery/captain-jack-sparrow-napoleon-bonaparte-768.webp",
+        "576": "images/gallery/captain-jack-sparrow-napoleon-bonaparte-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Cinderella & Elsa",
+        "description": "*Cinderella / Frozen*"
+      },
+      "images": {
+        "768": "images/gallery/cinderella-elsa-768.webp",
+        "576": "images/gallery/cinderella-elsa-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Crash & Aku-Aku / Stanley Ipkiss",
+        "description": "*Crash Bandicoot / O Máskara*"
+      },
+      "images": {
+        "768": "images/gallery/crash-bandicoot-aku-aku-stanley-ipkiss-768.webp",
+        "576": "images/gallery/crash-bandicoot-aku-aku-stanley-ipkiss-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Gaara & Goku",
+        "description": "*Naruto / Dragon Ball*"
+      },
+      "images": {
+        "768": "images/gallery/gaara-goku-768.webp",
+        "576": "images/gallery/gaara-goku-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Gaston Lagaffe & \"Gaivota\" / Harry Potter & Hedwig",
+        "description": "*Spirou Magazine / J. K. Rowling*"
+      },
+      "images": {
+        "768": "images/gallery/gaston-lagaffe-seagull-harry-potter-hedwig-768.webp",
+        "576": "images/gallery/gaston-lagaffe-seagull-harry-potter-hedwig-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Vovó & Piu-piu / Jafar & Iago",
+        "description": "Looney Tunes / Aladdin"
+      },
+      "images": {
+        "768": "images/gallery/granny-tweety-jafar-iago-768.webp",
+        "576": "images/gallery/granny-tweety-jafar-iago-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Hannibal Lecter & Bane",
+        "description": "*O Silêncio dos Inocentes / DC Comics*"
+      },
+      "images": {
+        "768": "images/gallery/hannibal-lecter-bane-768.webp",
+        "576": "images/gallery/hannibal-lecter-bane-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Soluço & Banguela / Daenerys Targaryen",
+        "description": "*Como Treinar o seu Dragão / Game of Thrones*"
+      },
+      "images": {
+        "768": "images/gallery/hiccup-toothless-daenerys-targaryen-768.webp",
+        "576": "images/gallery/hiccup-toothless-daenerys-targaryen-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Jafar & Capitão Gancho",
+        "description": "*Aladdin / Peter Pan*"
+      },
+      "images": {
+        "768": "images/gallery/jafar-hook-768.webp",
+        "576": "images/gallery/jafar-hook-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Jon Arbuckle & Garfield / Yamcha & Pual",
+        "description": "*Garfield / Dragon Ball*"
+      },
+      "images": {
+        "768": "images/gallery/jon-arbuckle-garfield-yamcha-pual-768.webp",
+        "576": "images/gallery/jon-arbuckle-garfield-yamcha-pual-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Katana & Arsène Lupin",
+        "description": "*DC Comics / Maurice Leblanc*"
+      },
+      "images": {
+        "768": "images/gallery/katana-arsene-lupin-768.webp",
+        "576": "images/gallery/katana-arsene-lupin-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Link & Predador",
+        "description": "*The Legend of Zelda: Majora's Mask / Predador*"
+      },
+      "images": {
+        "768": "images/gallery/link-majoras-mask-predator-768.webp",
+        "576": "images/gallery/link-majoras-mask-predator-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Link & Noddy",
+        "description": "*The Legend of Zelda / Noddy: Toyland Detective*"
+      },
+      "images": {
+        "768": "images/gallery/link-noddy-768.webp",
+        "576": "images/gallery/link-noddy-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Lucky Luke & Rantanplan / Detetive Columbo & \"Cão\"",
+        "description": "*Lucky Luke / Colombo (TV Show)*"
+      },
+      "images": {
+        "768": "images/gallery/lucky-luke-rantanplan-detective-columbo-dog-768.webp",
+        "576": "images/gallery/lucky-luke-rantanplan-detective-columbo-dog-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Chapeleiro Louco / \"Tio Sam\"",
+        "description": "*Alice no País das Maravilhas / Personificação dos EUA*"
+      },
+      "images": {
+        "768": "images/gallery/mad-hatter-uncle-sam-768.webp",
+        "576": "images/gallery/mad-hatter-uncle-sam-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Mario / Ash Ketchum",
+        "description": "*Super Mario World / Pokémon*"
+      },
+      "images": {
+        "768": "images/gallery/mario-ash-ketchum-768.webp",
+        "576": "images/gallery/mario-ash-ketchum-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Máskara & Milo / Jack Skellington & Zero",
+        "description": "*O Máskara / O Estranho Mundo de Jack*"
+      },
+      "images": {
+        "768": "images/gallery/mask-milo-jack-skellington-zero-768.webp",
+        "576": "images/gallery/mask-milo-jack-skellington-zero-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Megara & Princesa Sakura",
+        "description": "*Hércules / Princess Sakura*"
+      },
+      "images": {
+        "768": "images/gallery/megara-princess-sakura-768.webp",
+        "576": "images/gallery/megara-princess-sakura-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Merida & Ariel",
+        "description": "*Valente / A Pequena Sereia*"
+      },
+      "images": {
+        "768": "images/gallery/merida-ariel-768.webp",
+        "576": "images/gallery/merida-ariel-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Mickey & Pluto / Boule & Bill",
+        "description": "*Walt Disney / Boule et Bill (Billy & Buddy)*"
+      },
+      "images": {
+        "768": "images/gallery/mickey-pluto-boule-bill-768.webp",
+        "576": "images/gallery/mickey-pluto-boule-bill-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Mulan & Tiana",
+        "description": "*Mulan / A Princesa e o Sapo*"
+      },
+      "images": {
+        "768": "images/gallery/mulan-tiana-768.webp",
+        "576": "images/gallery/mulan-tiana-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "No-Face & Ghostface",
+        "description": "*A Viagem de Chihiro / Pânico*"
+      },
+      "images": {
+        "768": "images/gallery/no-face-ghostface-768.webp",
+        "576": "images/gallery/no-face-ghostface-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Penny & Crânio / Wallace & Gromit",
+        "description": "*Inspetor Bugiganga / DreamWorks Animation*"
+      },
+      "images": {
+        "768": "images/gallery/penny-brain-wallace-gromit-768.webp",
+        "576": "images/gallery/penny-brain-wallace-gromit-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Pocahontas & Meeko / Groot & Rocket Raccoon",
+        "description": "*Pocahontas / Marvel Comics*"
+      },
+      "images": {
+        "768": "images/gallery/pocahontas-meeko-groot-rocket-768.webp",
+        "576": "images/gallery/pocahontas-meeko-groot-rocket-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Pocahontas & Princesa Jasmine",
+        "description": "*Pocahontas / Aladdin*"
+      },
+      "images": {
+        "768": "images/gallery/pocahontas-princess-jasmine-768.webp",
+        "576": "images/gallery/pocahontas-princess-jasmine-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Princesa Jasmine & Rajah / Calvin & Hobbes",
+        "description": "*Aladdin / Calvin & Hobbes*"
+      },
+      "images": {
+        "768": "images/gallery/princess-jasmine-rajah-calvin-hobbes-768.webp",
+        "576": "images/gallery/princess-jasmine-rajah-calvin-hobbes-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Princesa Mononoke & Princesa Leia",
+        "description": "*Studio Ghibli / Star Wars*"
+      },
+      "images": {
+        "768": "images/gallery/princess-mononoke-princess-leia-768.webp",
+        "576": "images/gallery/princess-mononoke-princess-leia-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Princesa Peach & Aurora",
+        "description": "*Super Mario World / A Bela Adormecida*"
+      },
+      "images": {
+        "768": "images/gallery/princess-peach-aurora-768.webp",
+        "576": "images/gallery/princess-peach-aurora-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Rapunzel & Princesa Zelda",
+        "description": "*Rapunzel / The Legend of Zelda*"
+      },
+      "images": {
+        "768": "images/gallery/rapunzel-princess-zelda-768.webp",
+        "576": "images/gallery/rapunzel-princess-zelda-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Charada & Alex",
+        "description": "*DC Comics / A Laranja Mecânica*"
+      },
+      "images": {
+        "768": "images/gallery/riddler-alex-clockwork-orange-768.webp",
+        "576": "images/gallery/riddler-alex-clockwork-orange-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Scooby-Doo &amp; Salsicha <br class=\"d-sm-inline d-xxl-none\"><span class=\"d-none d-xxl-inline\">/</span> Homer e Ajudante de <br class=\"d-sm-none\">Papai-Noel",
+        "description": "*Scooby-Doo / Os Simpsons*"
+      },
+      "images": {
+        "768": "images/gallery/shaggy-scooby-doo-home-santas-little-helper-768.webp",
+        "576": "images/gallery/shaggy-scooby-doo-home-santas-little-helper-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Sherlock Homes & Inspetor Bugiganga",
+        "description": "*Sir Arthur Conan Doyle / Inspetor Bugiganga*"
+      },
+      "images": {
+        "768": "images/gallery/sherlock-holmes-inspector-gadget-768.webp",
+        "576": "images/gallery/sherlock-holmes-inspector-gadget-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Shy Guy & Duskull",
+        "description": "*Super Mario World / Pokémon*"
+      },
+      "images": {
+        "768": "images/gallery/shy-guy-duskull-768.webp",
+        "576": "images/gallery/shy-guy-duskull-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Branca de Neve & Mulher Maravilha",
+        "description": "*Walt Disney Pictures / DC Comics*"
+      },
+      "images": {
+        "768": "images/gallery/snow-white-wonder-woman-768.webp",
+        "576": "images/gallery/snow-white-wonder-woman-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Spirou & Spip / Linguini & Remy",
+        "description": "*Spirou & Fantasio / Ratatouille*"
+      },
+      "images": {
+        "768": "images/gallery/spirou-spip-linguini-remy-768.webp",
+        "576": "images/gallery/spirou-spip-linguini-remy-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Stan Marsh & Chiaotzu",
+        "description": "*South Park / Dragon Ball*"
+      },
+      "images": {
+        "768": "images/gallery/stan-marsh-chiaotzu-768.webp",
+        "576": "images/gallery/stan-marsh-chiaotzu-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Tintin & Milu / Obelix & Dogmatix",
+        "description": "*As Aventuras de Tintin / As Aventuras de Asterix*"
+      },
+      "images": {
+        "768": "images/gallery/tintin-snowy-obelix-dogmatix-768.webp",
+        "576": "images/gallery/tintin-snowy-obelix-dogmatix-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Vega & Jason Voorhees",
+        "description": "*Street Fighter / Sexta-feira 13*"
+      },
+      "images": {
+        "768": "images/gallery/vega-jason-768.webp",
+        "576": "images/gallery/vega-jason-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Waldo & Papai Noel",
+        "description": "*Onde está Wally? / Personalidade Folclórica*"
+      },
+      "images": {
+        "768": "images/gallery/waldo-santa-claus-768.webp",
+        "576": "images/gallery/waldo-santa-claus-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": "Woody & Lucky Luke",
+        "description": "*Toy Story / Lucky Luke*"
+      },
+      "images": {
+        "768": "images/gallery/woody-lucky-luke-768.webp",
+        "576": "images/gallery/woody-lucky-luke-576.webp"
+      }
+    }
+  ]
+}

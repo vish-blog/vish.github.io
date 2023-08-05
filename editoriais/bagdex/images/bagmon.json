@@ -1,0 +1,922 @@
+{
+  "settings": {
+    "name": "Bágdex: Jornada Brasil",
+    "credits": "© [Bág](https://www.instagram.com/bagilustrador)",
+    "style": "width: 30%"
+  },
+  "gallery": [
+    {
+      "cover": true,
+      "images": {
+        "768": "images/bagmon/cover-768.webp",
+        "576": "images/bagmon/cover-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/001-768.webp",
+        "576": "images/bagmon/001-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/002-768.webp",
+        "576": "images/bagmon/002-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/003-768.webp",
+        "576": "images/bagmon/003-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/004-768.webp",
+        "576": "images/bagmon/004-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/005-768.webp",
+        "576": "images/bagmon/005-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/006-768.webp",
+        "576": "images/bagmon/006-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/007-768.webp",
+        "576": "images/bagmon/007-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/008-768.webp",
+        "576": "images/bagmon/008-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/009-768.webp",
+        "576": "images/bagmon/009-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/010-768.webp",
+        "576": "images/bagmon/010-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/011-768.webp",
+        "576": "images/bagmon/011-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/012-768.webp",
+        "576": "images/bagmon/012-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/013-768.webp",
+        "576": "images/bagmon/013-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/014-768.webp",
+        "576": "images/bagmon/014-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/015-768.webp",
+        "576": "images/bagmon/015-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/016-768.webp",
+        "576": "images/bagmon/016-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/017-768.webp",
+        "576": "images/bagmon/017-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/018-768.webp",
+        "576": "images/bagmon/018-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/019-768.webp",
+        "576": "images/bagmon/019-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/020-768.webp",
+        "576": "images/bagmon/020-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/021-768.webp",
+        "576": "images/bagmon/021-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/022-768.webp",
+        "576": "images/bagmon/022-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/023-768.webp",
+        "576": "images/bagmon/023-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/024-768.webp",
+        "576": "images/bagmon/024-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/025-768.webp",
+        "576": "images/bagmon/025-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/026-768.webp",
+        "576": "images/bagmon/026-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/027-768.webp",
+        "576": "images/bagmon/027-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/028-768.webp",
+        "576": "images/bagmon/028-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/029-768.webp",
+        "576": "images/bagmon/029-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/030-768.webp",
+        "576": "images/bagmon/030-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/031-768.webp",
+        "576": "images/bagmon/031-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/032-768.webp",
+        "576": "images/bagmon/032-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/033-768.webp",
+        "576": "images/bagmon/033-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/034-768.webp",
+        "576": "images/bagmon/034-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/035-768.webp",
+        "576": "images/bagmon/035-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/036-768.webp",
+        "576": "images/bagmon/036-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/037-768.webp",
+        "576": "images/bagmon/037-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/038-768.webp",
+        "576": "images/bagmon/038-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/039-768.webp",
+        "576": "images/bagmon/039-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/040-768.webp",
+        "576": "images/bagmon/040-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/041-768.webp",
+        "576": "images/bagmon/041-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/042-768.webp",
+        "576": "images/bagmon/042-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/043-768.webp",
+        "576": "images/bagmon/043-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/044-768.webp",
+        "576": "images/bagmon/044-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/045-768.webp",
+        "576": "images/bagmon/045-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/046-768.webp",
+        "576": "images/bagmon/046-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/047-768.webp",
+        "576": "images/bagmon/047-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/048-768.webp",
+        "576": "images/bagmon/048-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/049-768.webp",
+        "576": "images/bagmon/049-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/050-768.webp",
+        "576": "images/bagmon/050-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/051-768.webp",
+        "576": "images/bagmon/051-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/052-768.webp",
+        "576": "images/bagmon/052-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/053-768.webp",
+        "576": "images/bagmon/053-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/054-768.webp",
+        "576": "images/bagmon/054-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/055-768.webp",
+        "576": "images/bagmon/055-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/056-768.webp",
+        "576": "images/bagmon/056-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/057-768.webp",
+        "576": "images/bagmon/057-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/058-768.webp",
+        "576": "images/bagmon/058-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/059-768.webp",
+        "576": "images/bagmon/059-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/060-768.webp",
+        "576": "images/bagmon/060-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/061-768.webp",
+        "576": "images/bagmon/061-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/062-768.webp",
+        "576": "images/bagmon/062-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/063-768.webp",
+        "576": "images/bagmon/063-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/064-768.webp",
+        "576": "images/bagmon/064-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/065-768.webp",
+        "576": "images/bagmon/065-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/066-768.webp",
+        "576": "images/bagmon/066-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/067-768.webp",
+        "576": "images/bagmon/067-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/068-768.webp",
+        "576": "images/bagmon/068-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/069-768.webp",
+        "576": "images/bagmon/069-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/070-768.webp",
+        "576": "images/bagmon/070-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/071-768.webp",
+        "576": "images/bagmon/071-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/072-768.webp",
+        "576": "images/bagmon/072-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/073-768.webp",
+        "576": "images/bagmon/073-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/074-768.webp",
+        "576": "images/bagmon/074-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/075-768.webp",
+        "576": "images/bagmon/075-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/076-768.webp",
+        "576": "images/bagmon/076-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/077-768.webp",
+        "576": "images/bagmon/077-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/078-768.webp",
+        "576": "images/bagmon/078-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/079-768.webp",
+        "576": "images/bagmon/079-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/080-768.webp",
+        "576": "images/bagmon/080-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/081-768.webp",
+        "576": "images/bagmon/081-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/082-768.webp",
+        "576": "images/bagmon/082-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/083-768.webp",
+        "576": "images/bagmon/083-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/084-768.webp",
+        "576": "images/bagmon/084-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/085-768.webp",
+        "576": "images/bagmon/085-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/086-768.webp",
+        "576": "images/bagmon/086-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/087-768.webp",
+        "576": "images/bagmon/087-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/088-768.webp",
+        "576": "images/bagmon/088-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/089-768.webp",
+        "576": "images/bagmon/089-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/090-768.webp",
+        "576": "images/bagmon/090-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/091-768.webp",
+        "576": "images/bagmon/091-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/092-768.webp",
+        "576": "images/bagmon/092-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/093-768.webp",
+        "576": "images/bagmon/093-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/094-768.webp",
+        "576": "images/bagmon/094-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/095-768.webp",
+        "576": "images/bagmon/095-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/096-768.webp",
+        "576": "images/bagmon/096-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/097-768.webp",
+        "576": "images/bagmon/097-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/098-768.webp",
+        "576": "images/bagmon/098-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/099-768.webp",
+        "576": "images/bagmon/099-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/100-768.webp",
+        "576": "images/bagmon/100-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/101-768.webp",
+        "576": "images/bagmon/101-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/102-768.webp",
+        "576": "images/bagmon/102-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/103-768.webp",
+        "576": "images/bagmon/103-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/104-768.webp",
+        "576": "images/bagmon/104-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/105-768.webp",
+        "576": "images/bagmon/105-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/106-768.webp",
+        "576": "images/bagmon/106-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/107-768.webp",
+        "576": "images/bagmon/107-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/108-768.webp",
+        "576": "images/bagmon/108-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/109-768.webp",
+        "576": "images/bagmon/109-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/110-768.webp",
+        "576": "images/bagmon/110-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/111-768.webp",
+        "576": "images/bagmon/111-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/112-768.webp",
+        "576": "images/bagmon/112-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/113-768.webp",
+        "576": "images/bagmon/113-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/114-768.webp",
+        "576": "images/bagmon/114-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/115-768.webp",
+        "576": "images/bagmon/115-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/116-768.webp",
+        "576": "images/bagmon/116-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/117-768.webp",
+        "576": "images/bagmon/117-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/118-768.webp",
+        "576": "images/bagmon/118-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/119-768.webp",
+        "576": "images/bagmon/119-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/120-768.webp",
+        "576": "images/bagmon/120-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/121-768.webp",
+        "576": "images/bagmon/121-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/122-768.webp",
+        "576": "images/bagmon/122-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/123-768.webp",
+        "576": "images/bagmon/123-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/124-768.webp",
+        "576": "images/bagmon/124-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/125-768.webp",
+        "576": "images/bagmon/125-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/126-768.webp",
+        "576": "images/bagmon/126-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/127-768.webp",
+        "576": "images/bagmon/127-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/128-768.webp",
+        "576": "images/bagmon/128-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/129-768.webp",
+        "576": "images/bagmon/129-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/130-768.webp",
+        "576": "images/bagmon/130-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/131-768.webp",
+        "576": "images/bagmon/131-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/132-768.webp",
+        "576": "images/bagmon/132-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/133-768.webp",
+        "576": "images/bagmon/133-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/134-768.webp",
+        "576": "images/bagmon/134-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/135-768.webp",
+        "576": "images/bagmon/135-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/136-768.webp",
+        "576": "images/bagmon/136-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/137-768.webp",
+        "576": "images/bagmon/137-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/138-768.webp",
+        "576": "images/bagmon/138-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/139-768.webp",
+        "576": "images/bagmon/139-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/140-768.webp",
+        "576": "images/bagmon/140-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/141-768.webp",
+        "576": "images/bagmon/141-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/142-768.webp",
+        "576": "images/bagmon/142-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/143-768.webp",
+        "576": "images/bagmon/143-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/144-768.webp",
+        "576": "images/bagmon/144-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/145-768.webp",
+        "576": "images/bagmon/145-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/146-768.webp",
+        "576": "images/bagmon/146-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/147-768.webp",
+        "576": "images/bagmon/147-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/148-768.webp",
+        "576": "images/bagmon/148-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/149-768.webp",
+        "576": "images/bagmon/149-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/150-768.webp",
+        "576": "images/bagmon/150-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/bagmon/151-768.webp",
+        "576": "images/bagmon/151-576.webp"
+      }
+    }
+  ]
+}

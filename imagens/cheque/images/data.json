@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "name": "Cheque",
+    "captions": false,
+    "credits": "© [Neil Kohney](https://www.instagram.com/p/CoXg4HsLsgl/)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "images": {
+        "1x": "images/gallery/1.jpg"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/2.jpg"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/3.jpg"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/4.jpg"
+      }
+    },
+    {
+      "images": {
+        "1x": "images/gallery/5.jpg"
+      }
+    }
+  ]
+}

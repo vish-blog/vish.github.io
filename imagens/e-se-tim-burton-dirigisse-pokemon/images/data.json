@@ -1,0 +1,511 @@
+{
+  "settings": {
+    "name": "E se Tim Burton dirigisse Pokémon?",
+    "captions": true,
+    "credits": "© [Vaughn \"Hat Boy\" Pinpin](https://hatboy.tumblr.com/tagged/burtonpkmn)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": false,
+      "images": {
+        "768": "images/gallery/1-768.webp",
+        "576": "images/gallery/1-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/2-768.webp",
+        "576": "images/gallery/2-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/3-768.webp",
+        "576": "images/gallery/3-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/4-768.webp",
+        "576": "images/gallery/4-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/5-768.webp",
+        "576": "images/gallery/5-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/6-768.webp",
+        "576": "images/gallery/6-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "title": false,
+        "description": "Esse com certeza seria interpretado pelo Johnny Depp :Þ"
+      },
+      "images": {
+        "768": "images/gallery/7-768.webp",
+        "576": "images/gallery/7-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/8-768.webp",
+        "576": "images/gallery/8-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/9-768.webp",
+        "576": "images/gallery/9-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/10-768.webp",
+        "576": "images/gallery/10-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/11-768.webp",
+        "576": "images/gallery/11-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/12-768.webp",
+        "576": "images/gallery/12-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/13-768.webp",
+        "576": "images/gallery/13-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/14-768.webp",
+        "576": "images/gallery/14-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/15-768.webp",
+        "576": "images/gallery/15-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/16-768.webp",
+        "576": "images/gallery/16-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/17-768.webp",
+        "576": "images/gallery/17-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/18-768.webp",
+        "576": "images/gallery/18-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/19-768.webp",
+        "576": "images/gallery/19-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/20-768.webp",
+        "576": "images/gallery/20-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/21-768.webp",
+        "576": "images/gallery/21-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/22-768.webp",
+        "576": "images/gallery/22-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/23-768.webp",
+        "576": "images/gallery/23-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/24-768.webp",
+        "576": "images/gallery/24-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/25-768.webp",
+        "576": "images/gallery/25-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/26-768.webp",
+        "576": "images/gallery/26-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/27-768.webp",
+        "576": "images/gallery/27-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/28-768.webp",
+        "576": "images/gallery/28-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/29-768.webp",
+        "576": "images/gallery/29-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/30-768.webp",
+        "576": "images/gallery/30-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/31-768.webp",
+        "576": "images/gallery/31-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/32-768.webp",
+        "576": "images/gallery/32-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/33-768.webp",
+        "576": "images/gallery/33-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/34-768.webp",
+        "576": "images/gallery/34-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/35-768.webp",
+        "576": "images/gallery/35-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/36-768.webp",
+        "576": "images/gallery/36-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/37-768.webp",
+        "576": "images/gallery/37-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/38-768.webp",
+        "576": "images/gallery/38-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/39-768.webp",
+        "576": "images/gallery/39-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/40-768.webp",
+        "576": "images/gallery/40-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/41-768.webp",
+        "576": "images/gallery/41-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/42-768.webp",
+        "576": "images/gallery/42-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/43-768.webp",
+        "576": "images/gallery/43-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/44-768.webp",
+        "576": "images/gallery/44-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/45-768.webp",
+        "576": "images/gallery/45-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/46-768.webp",
+        "576": "images/gallery/46-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/47-768.webp",
+        "576": "images/gallery/47-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/48-768.webp",
+        "576": "images/gallery/48-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/49-768.webp",
+        "576": "images/gallery/49-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/50-768.webp",
+        "576": "images/gallery/50-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/51-768.webp",
+        "576": "images/gallery/51-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/52-768.webp",
+        "576": "images/gallery/52-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/53-768.webp",
+        "576": "images/gallery/53-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/54-768.webp",
+        "576": "images/gallery/54-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/55-768.webp",
+        "576": "images/gallery/55-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/56-768.webp",
+        "576": "images/gallery/56-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/57-768.webp",
+        "576": "images/gallery/57-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/58-768.webp",
+        "576": "images/gallery/58-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/59-768.webp",
+        "576": "images/gallery/59-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/60-768.webp",
+        "576": "images/gallery/60-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/61-768.webp",
+        "576": "images/gallery/61-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/62-768.webp",
+        "576": "images/gallery/62-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/63-768.webp",
+        "576": "images/gallery/63-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/64-768.webp",
+        "576": "images/gallery/64-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/65-768.webp",
+        "576": "images/gallery/65-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/66-768.webp",
+        "576": "images/gallery/66-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/67-768.webp",
+        "576": "images/gallery/67-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/68-768.webp",
+        "576": "images/gallery/68-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/69-768.webp",
+        "576": "images/gallery/69-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/70-768.webp",
+        "576": "images/gallery/70-576.webp"
+      }
+    },
+    {
+      "caption": false,
+      "images": {
+        "768": "images/gallery/71-768.webp",
+        "576": "images/gallery/71-576.webp"
+      }
+    }
+  ]
+}

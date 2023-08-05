@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "name": "Bágdex: Jornada Brasil (Novos Tipos)",
+    "credits": "© [Bág](https://www.instagram.com/bagilustrador)",
+    "notes": "(Publicada quando a BágDex ainda não estava completa)",
+    "style": "width: 40%"
+  },
+  "gallery": [
+    {
+      "cover": true,
+      "images": {
+        "768": "images/new-types/1-768.webp",
+        "576": "images/new-types/1-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/new-types/2-768.webp",
+        "576": "images/new-types/2-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/new-types/3-768.webp",
+        "576": "images/new-types/3-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/new-types/4-768.webp",
+        "576": "images/new-types/4-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/new-types/5-768.webp",
+        "576": "images/new-types/5-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/new-types/6-768.webp",
+        "576": "images/new-types/6-576.webp"
+      }
+    }
+  ]
+}

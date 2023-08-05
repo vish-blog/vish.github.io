@@ -1,0 +1,131 @@
+{
+  "settings": {
+    "name": "Bebês vs. Gatos",
+    "captions": false,
+    "credits": "© [The Oatmeal](https://theoatmeal.com/comics/baby_vs_cat)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "images": {
+        "768": "images/gallery/cover-768.webp",
+        "576": "images/gallery/cover-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/1-768.webp",
+        "576": "images/gallery/1-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/2a-768.webp",
+        "576": "images/gallery/2a-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/2b-768.webp",
+        "576": "images/gallery/2b-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/3a-768.webp",
+        "576": "images/gallery/3a-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/3b-768.webp",
+        "576": "images/gallery/3b-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/3c-768.webp",
+        "576": "images/gallery/3c-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/4a-768.webp",
+        "576": "images/gallery/4a-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/4b-768.webp",
+        "576": "images/gallery/4b-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/5a-768.webp",
+        "576": "images/gallery/5a-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/5b-768.webp",
+        "576": "images/gallery/5b-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/5c-768.webp",
+        "576": "images/gallery/5c-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/5d-768.webp",
+        "576": "images/gallery/5d-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/6a-768.webp",
+        "576": "images/gallery/6a-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/6b-768.webp",
+        "576": "images/gallery/6b-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/7a-768.webp",
+        "576": "images/gallery/7a-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/7b-768.webp",
+        "576": "images/gallery/7b-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/7c-768.webp",
+        "576": "images/gallery/7c-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/end-1-768.webp",
+        "576": "images/gallery/end-1-576.webp"
+      }
+    },
+    {
+      "images": {
+        "768": "images/gallery/end-2-768.webp",
+        "576": "images/gallery/end-2-576.webp"
+      }
+    }
+  ]
+}

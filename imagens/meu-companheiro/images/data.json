@@ -1,0 +1,308 @@
+{
+  "settings": {
+    "name": "Meu Companheiro",
+    "captions": true,
+    "credits": "© [Yaoyao Ma Van As](https://www.instagram.com/yaoyaomva/)"
+  },
+
+  "gallery": [
+    {
+      "cover": true,
+      "caption": {
+        "description": "Comigo você não precisa mais de despertador"
+      },
+      "images": {
+        "768": "images/gallery/1-768.webp",
+        "576": "images/gallery/1-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Porque vou sempre te acordar cedo pelo motivo mais bobo possível"
+      },
+      "images": {
+        "768": "images/gallery/2-768.webp",
+        "576": "images/gallery/2-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Se cantar for sua paixão, eu vou te apoiar"
+      },
+      "images": {
+        "768": "images/gallery/3-768.webp",
+        "576": "images/gallery/3-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E serei seu fã no. 1 não importa onde for seu show"
+      },
+      "images": {
+        "768": "images/gallery/4-768.webp",
+        "576": "images/gallery/4-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Vou te ensinar a compartilhar"
+      },
+      "images": {
+        "768": "images/gallery/5-768.webp",
+        "576": "images/gallery/5-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Todas as vezes"
+      },
+      "images": {
+        "768": "images/gallery/6-768.webp",
+        "576": "images/gallery/6-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E prometo ficar de olho no relógio"
+      },
+      "images": {
+        "768": "images/gallery/7-768.webp",
+        "576": "images/gallery/7-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Pra te lembrar que adiar algumas coisas é importante"
+      },
+      "images": {
+        "768": "images/gallery/8-768.webp",
+        "576": "images/gallery/8-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mais de uma vez"
+      },
+      "images": {
+        "768": "images/gallery/9-768.webp",
+        "576": "images/gallery/9-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Posso te surpreender às vezes"
+      },
+      "images": {
+        "768": "images/gallery/10-768.webp",
+        "576": "images/gallery/10-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E trazer um pouco de caos na sua vida de vez em quando"
+      },
+      "images": {
+        "768": "images/gallery/11-768.webp",
+        "576": "images/gallery/11-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mas prometo ser seu parceiro na hora de limpar"
+      },
+      "images": {
+        "768": "images/gallery/12-768.webp",
+        "576": "images/gallery/12-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mesmo que pra mim seja só mais uma brincadeira"
+      },
+      "images": {
+        "768": "images/gallery/13-768.webp",
+        "576": "images/gallery/13-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Pode contar comigo nos momentos bons"
+      },
+      "images": {
+        "768": "images/gallery/14-768.webp",
+        "576": "images/gallery/14-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E também nos ruins"
+      },
+      "images": {
+        "768": "images/gallery/15-768.webp",
+        "576": "images/gallery/15-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Pois estarei sempre aqui por você"
+      },
+      "images": {
+        "768": "images/gallery/16-768.webp",
+        "576": "images/gallery/16-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Nem tudo vai sair sempre como planejado"
+      },
+      "images": {
+        "768": "images/gallery/17-768.webp",
+        "576": "images/gallery/17-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mas vamos lidar com seus problemas juntos"
+      },
+      "images": {
+        "768": "images/gallery/18-768.webp",
+        "576": "images/gallery/18-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Mesmo aqueles que você já havia resolvido"
+      },
+      "images": {
+        "768": "images/gallery/19-768.webp",
+        "576": "images/gallery/19-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Você vai aprender a apreciar as coisas simples assim como eu"
+      },
+      "images": {
+        "768": "images/gallery/20-768.webp",
+        "576": "images/gallery/20-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E entender que não precisa de muito pra ser feliz"
+      },
+      "images": {
+        "768": "images/gallery/21-768.webp",
+        "576": "images/gallery/21-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Vamos cuidar da natureza"
+      },
+      "images": {
+        "768": "images/gallery/22-768.webp",
+        "576": "images/gallery/22-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Passear na praia"
+      },
+      "images": {
+        "768": "images/gallery/23-768.webp",
+        "576": "images/gallery/23-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Brincar na neve"
+      },
+      "images": {
+        "768": "images/gallery/24-768.webp",
+        "576": "images/gallery/24-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E partir numa aventura mágica!"
+      },
+      "images": {
+        "768": "images/gallery/25-768.webp",
+        "576": "images/gallery/25-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Vou te levar pra passear"
+      },
+      "images": {
+        "768": "images/gallery/26-768.webp",
+        "576": "images/gallery/26-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E nem vamos nos importar se o tempo estiver ruim"
+      },
+      "images": {
+        "768": "images/gallery/27-768.webp",
+        "576": "images/gallery/27-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Compartilharemos sentimentos"
+      },
+      "images": {
+        "768": "images/gallery/28-768.webp",
+        "576": "images/gallery/28-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E também sonhos"
+      },
+      "images": {
+        "768": "images/gallery/29-768.webp",
+        "576": "images/gallery/29-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Assim você vai entender que sempre poderá contar comigo"
+      },
+      "images": {
+        "768": "images/gallery/30-768.webp",
+        "576": "images/gallery/30-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E vai ter sempre alguém pra abraçar"
+      },
+      "images": {
+        "768": "images/gallery/31-768.webp",
+        "576": "images/gallery/31-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "E te fazer companhia"
+      },
+      "images": {
+        "768": "images/gallery/32-768.webp",
+        "576": "images/gallery/32-576.webp"
+      }
+    },
+    {
+      "caption": {
+        "description": "Afinal, esse é o amor que todos nós merecemos"
+      },
+      "images": {
+        "768": "images/gallery/33-768.webp",
+        "576": "images/gallery/33-576.webp"
+      }
+    }
+  ]
+}
